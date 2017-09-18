@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>gawati-xml-data</description>
+    <author>Ashok</author>
+    <author>Ashok</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>gw-data</target>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <permissions user="gwdata" group="gwdata" mode="rw-rw-r--"/>
+<deployed>2017-09-18T17:04:03.792+05:30</deployed>
+</meta>
