@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection xmlns="http://exist-db.org/collection-config/1.0" xmlns:gw="http://gawati.org/ns/1.0" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+<collection xmlns:gw="http://gawati.org/ns/1.0" xmlns="http://exist-db.org/collection-config/1.0" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
     <lucene>
-        <text match="//an:publication/@showAs"/>
+       <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+       <analyzer id="ws" class="org.apache.lucene.analysis.core.WhitespaceAnalyzer"/>
+       <text match="//an:publication/@showAs"/>
+       <text match="//an:classification/an:keyword/@showAs"/>
+       <text match="//an:classification/an:keyword/@value" analyzer="ws"/> 
+       <text match="//an:FRBRnumber/@showAs" analyzer="ws"/>
+       <text match="//an:FRBRcountry/@showAs"/>
+       <text match="//an:TLCConcept/@showAs"/>
     </lucene>
     <!-- range index -->
     <range>
@@ -17,6 +24,11 @@
         <create qname="an:FRBRdate" type="xs:string">
              <field name="date-value" match="@date" type="xs:date"/>
         </create>
+        
+        <create qname="an:FRBRcountry" type="xs:string">
+             <field name="ctry-value" match="@value" type="xs:string"/>
+        </create>
+        
                 
         <create qname="gw:dateTime" type="xs:string">
              <field name="refersto-value" match="@refersTo" type="xs:string"/>
