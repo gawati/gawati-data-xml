@@ -1,46 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection xmlns:gw="http://gawati.org/ns/1.0" xmlns="http://exist-db.org/collection-config/1.0" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+<collection xmlns="http://exist-db.org/collection-config/1.0" xmlns:gw="http://gawati.org/ns/1.0" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
     <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!--
     <lucene>
        <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
        <analyzer id="ws" class="org.apache.lucene.analysis.core.WhitespaceAnalyzer"/>
-       <text match="//an:publication/@showAs"/>
-       <text match="//an:classification/an:keyword/@showAs"/>
-       <text match="//an:classification/an:keyword/@value" analyzer="ws"/> 
-       <text match="//an:FRBRnumber/@showAs" analyzer="ws"/>
-       <text match="//an:FRBRcountry/@showAs"/>
-       <text match="//an:TLCConcept/@showAs"/>
     </lucene>
+    -->
     <!-- range index -->
     <range>
+        
         <create qname="an:FRBRthis" type="xs:string">
-             <field name="iri-value" match="@value" type="xs:string"/>
+             <field name="frbrthis-iri-value" match="@value" type="xs:string" case="yes"/>
         </create>
     
         <create qname="an:FRBRdate" type="xs:string">
-             <field name="date-value" match="@date" type="xs:date"/>
+             <field name="frbrate-date-value" match="@date" type="xs:date"/>
         </create>
-        
-        <create qname="an:FRBRdate" type="xs:string">
-             <field name="date-value" match="@date" type="xs:date"/>
+
+        <create qname="an:FRBRnumber" type="xs:string">
+            <field name="number-showAs" match="@showAs" type="xs:string" case="no"/>
         </create>
-        
+
         <create qname="an:FRBRcountry" type="xs:string">
-             <field name="ctry-value" match="@value" type="xs:string"/>
+            <field name="frbrcountry-showAs" match="@showAs" type="xs:string" case="no"/>
+            <field name="frbrcountry-value" match="@value" type="xs:string" case="yes"/>
+        </create>
+
+        <create qname="an:publication" type="xs:string">
+            <field name="publication-showas" match="@showAs" type="xs:string" case="no"/>
+        </create>
+
+        <create qname="an:keyword" type="xs:string">
+            <field name="kw-value" match="@value" type="xs:string" case="yes"/>
+            <field name="kw-showAs" match="@showAs" type="xs:string" case="no"/>
         </create>
         
-                
+        <create qname="an:TLCConcept" type="xs:string">
+            <field name="tlcconcept-showAs" match="@showAs" type="xs:string" case="no"/>
+        </create>
+
         <create qname="gw:dateTime" type="xs:string">
-             <field name="refersto-value" match="@refersTo" type="xs:string"/>
-             <field name="date-value" match="@datetime" type="xs:dateTime"/>
+             <field name="gwdatetime-refersto-value" match="@refersTo" type="xs:string"/>
+             <field name="gwdatetime-datetime-value" match="@datetime" type="xs:dateTime"/>
         </create>
         
         <create qname="gw:date" type="xs:string">
-              <field name="refersto-value" match="@refersTo" type="xs:string"/>
-             <field name="date-value" match="@date" type="xs:date"/>
-        </create>
-        
-        
+              <field name="gwdate-refersto-value" match="@refersTo" type="xs:string"/>
+             <field name="gwdate-date-value" match="@date" type="xs:date"/>
+        </create>        
+
     </range>    
         
 
