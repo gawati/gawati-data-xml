@@ -20,6 +20,8 @@ ant xar
     stage('Deploy') {
       steps {
         echo 'Deploying....'
+        sh '''ant -Ddst=/var/www/html/dl.gawati.org/jenkins provide
+'''
       }
     }
     stage('Clean') {
