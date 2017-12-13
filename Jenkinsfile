@@ -3,24 +3,18 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Building..'
-        sh '''pwd
-ant xar
-'''
+        sh 'pwd'
+        sh 'ant xar'
       }
     }
     stage('Test') {
       steps {
-        echo 'Testing..'
-        sh '''ls build
-'''
+        sh 'ls build'
       }
     }
     stage('Deploy') {
       steps {
-        echo 'Deploying....'
-        sh '''ant -Ddst=/var/www/html/dl.gawati.org/jenkins provide
-'''
+        sh 'ant -Ddst=/var/www/html/dl.gawati.org/dev provide'
       }
     }
     stage('Clean') {
