@@ -5,7 +5,6 @@ pipeline {
       steps {
         echo 'Building..'
         sh '''pwd
-ls
 ant xar
 '''
       }
