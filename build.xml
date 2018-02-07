@@ -8,6 +8,9 @@
         <mkdir dir="${build.dir}"/>
         <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/*"/>
     </target>
+    <target name="vars">
+        <echoproperties/>
+    </target>
     <target name="provide">
         <fail message="Property &quot;dst&quot; must point at destination directory: -Ddst=/to/my/folder">
             <condition>
