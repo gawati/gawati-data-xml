@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/tg/act/1933-07-16/arrete_no_368/fra@/!main">
+<page id="1" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R7" x0="-1.00" y0="1.00" x1="596.00" y1="829.00">
+<image id="1" name="im1" type="normal" x="-1.00" y="13.00" height="828.00" width="597.00"/>
+</figure>
+<rect id="1" linewidth="0" x0="19.00" y0="161.00" x1="300.00" y1="773.00"/>
+<vectorcurve id="1" linewidth="16" x0="19.00" y0="161.00" x1="300.00" y1="773.00"/>
+<rect id="1" linewidth="0" x0="310.00" y0="1.00" x1="588.00" y1="477.00"/>
+<vectorcurve id="1" linewidth="16" x0="310.00" y0="1.00" x1="588.00" y1="477.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+</pages>

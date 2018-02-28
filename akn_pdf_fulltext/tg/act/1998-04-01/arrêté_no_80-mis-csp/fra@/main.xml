@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/tg/act/1998-04-01/arrêté_no_80-mis-csp/fra@/!main">
+<page id="1" cropbox="(0, 383, 594, 1224)" x="0.00" y="0.00" height="840.70" width="594.50" rotate="0">
+<figure name="3" x0="15.00" y0="4.00" x1="588.00" y1="835.00">
+<image id="1" name="im1" type="normal" x="15.00" y="5.70" height="831.00" width="573.00"/>
+</figure>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+</pages>

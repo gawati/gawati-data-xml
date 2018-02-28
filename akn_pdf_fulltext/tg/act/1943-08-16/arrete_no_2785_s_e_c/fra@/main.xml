@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/tg/act/1943-08-16/arrete_no_2785_s_e_c/fra@/!main">
+<page id="1" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R7" x0="1.00" y0="2.00" x1="593.00" y1="839.00">
+<image id="1" name="im1" type="normal" x="1.00" y="3.00" height="837.00" width="592.00"/>
+</figure>
+<figure name="140029607494416" x0="396.00" y0="560.00" x1="492.00" y1="568.00">
+<image id="2" name="im2" type="normal" x="396.00" y="274.00" height="8.00" width="96.00"/>
+</figure>
+<vectorline id="1" linewidth="14" x0="35.00" y0="785.00" x1="571.00" y1="785.00"/>
+<vectorline id="1" linewidth="8" x0="303.00" y0="580.00" x1="303.00" y1="750.00"/>
+<vectorline id="1" linewidth="5" x0="303.00" y0="389.00" x1="303.00" y1="567.00"/>
+<vectorline id="1" linewidth="8" x0="303.00" y0="341.00" x1="303.00" y1="376.00"/>
+<vectorline id="1" linewidth="11" x0="304.00" y0="16.00" x1="304.00" y1="341.00"/>
+<rect id="1" linewidth="0" x0="23.00" y0="20.00" x1="295.00" y1="778.00"/>
+<vectorcurve id="1" linewidth="16" x0="23.00" y0="20.00" x1="295.00" y1="778.00"/>
+<rect id="1" linewidth="0" x0="310.00" y0="580.00" x1="575.00" y1="779.00"/>
+<vectorcurve id="1" linewidth="16" x0="310.00" y0="580.00" x1="575.00" y1="779.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+<page id="2" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R12" x0="1.00" y0="2.00" x1="593.00" y1="839.00">
+<image id="3" name="im3" type="normal" x="1.00" y="3.00" height="837.00" width="592.00"/>
+</figure>
+<vectorline id="1" linewidth="15" x0="49.00" y0="788.00" x1="584.00" y1="788.00"/>
+<vectorline id="1" linewidth="15" x0="316.00" y0="324.00" x1="316.00" y1="769.00"/>
+<vectorline id="1" linewidth="12" x0="317.00" y0="20.00" x1="317.00" y1="300.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+<page id="3" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R17" x0="1.00" y0="2.00" x1="593.00" y1="839.00">
+<image id="4" name="im4" type="normal" x="1.00" y="3.00" height="837.00" width="592.00"/>
+</figure>
+<vectorline id="1" linewidth="14" x0="43.00" y0="787.00" x1="578.00" y1="787.00"/>
+<vectorline id="1" linewidth="11" x0="310.00" y0="18.00" x1="310.00" y1="789.00"/>
+<vectorline id="1" linewidth="5" x0="324.00" y0="343.00" x1="578.00" y1="343.00"/>
+<vectorline id="1" linewidth="5" x0="425.00" y0="313.00" x1="476.00" y1="313.00"/>
+<vectorline id="1" linewidth="5" x0="424.00" y0="131.00" x1="475.00" y1="131.00"/>
+<rect id="1" linewidth="0" x0="317.00" y0="17.00" x1="581.00" y1="332.00"/>
+<vectorcurve id="1" linewidth="16" x0="317.00" y0="17.00" x1="581.00" y1="332.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+</pages>

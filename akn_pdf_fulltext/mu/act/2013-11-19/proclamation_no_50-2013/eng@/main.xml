@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/mu/act/2013-11-19/proclamation_no_50-2013/eng@/!main">
+<page id="1" cropbox="(0, 0, 612, 792)" x="0.00" y="0.00" height="792.00" width="612.00" rotate="0">
+<column id="1" x="72.00" y="597.00" height="503.00" width="468.00" alignment="center">
+<textpara id="1" sparse="normal" type="body" wmode="horizontal" x="83.00" y="104.00" height="10.00" width="445.00">
+<textline id="1" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="83.00" y="104.00" height="10.00" width="445.00" number_of_words="12">
+<textword id="1" x="83.00" y="104.00" height="10.00" width="74.00" charspace="0.00">
+<text>RESUMPTION</text>
+</textword>
+<textword id="2" x="160.00" y="104.00" height="10.00" width="15.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="3" x="178.00" y="104.00" height="10.00" width="40.00" charspace="0.00">
+<text>OFFICE</text>
+</textword>
+<textword id="4" x="221.00" y="104.00" height="10.00" width="16.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="5" x="240.00" y="104.00" height="10.00" width="63.00" charspace="0.00">
+<text>PRESIDENT</text>
+</textword>
+<textword id="6" x="306.00" y="104.00" height="10.00" width="15.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="7" x="324.00" y="104.00" height="10.00" width="22.00" charspace="0.00">
+<text>THE</text>
+</textword>
+<textword id="8" x="349.00" y="104.00" height="10.00" width="56.00" charspace="0.00">
+<text>REPUBLIC</text>
+</textword>
+<textword id="9" x="408.00" y="104.00" height="10.00" width="16.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="10" x="427.00" y="104.00" height="10.00" width="61.00" charspace="0.00">
+<text>MAURITIUS</text>
+</textword>
+<textword id="11" x="491.00" y="104.00" height="10.00" width="15.00" charspace="0.00">
+<text>BY</text>
+</textword>
+<textword id="12" x="509.00" y="104.00" height="10.00" width="19.00" charspace="0.00">
+<text>HIS</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="2" sparse="normal" type="body" wmode="horizontal" x="156.00" y="123.00" height="11.00" width="299.00">
+<textline id="2" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="156.00" y="123.00" height="11.00" width="299.00" number_of_words="6">
+<textword id="13" x="156.00" y="123.00" height="11.00" width="74.00" charspace="0.00">
+<text>EXCELLENCY</text>
+</textword>
+<textword id="14" x="233.00" y="123.00" height="11.00" width="13.00" charspace="0.00">
+<text>Mr</text>
+</textword>
+<textword id="15" x="250.00" y="123.00" height="11.00" width="71.00" charspace="0.00">
+<text>RAJKESWUR</text>
+</textword>
+<textword id="16" x="324.00" y="123.00" height="11.00" width="57.00" charspace="0.00">
+<text>PURRYAG,</text>
+</textword>
+<textword id="17" x="385.00" y="123.00" height="11.00" width="35.00" charspace="0.00">
+<text>GCSK,</text>
+</textword>
+<textword id="18" x="423.00" y="123.00" height="11.00" width="32.00" charspace="0.00">
+<text>GOSK</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="3" sparse="normal" type="body" wmode="horizontal" x="72.00" y="161.00" height="11.00" width="146.00">
+<textline id="3" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="72.00" y="161.00" height="11.00" width="146.00" number_of_words="5">
+<textword id="19" x="72.00" y="161.00" height="11.00" width="69.00" charspace="0.00">
+<text>Proclamation</text>
+</textword>
+<textword id="20" x="144.00" y="161.00" height="11.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="21" x="165.00" y="161.00" height="11.00" width="12.00" charspace="0.00">
+<text>50</text>
+</textword>
+<textword id="22" x="180.00" y="161.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="23" x="194.00" y="161.00" height="11.00" width="24.00" charspace="0.00">
+<text>2013</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="4" sparse="normal" type="body" wmode="horizontal" x="72.00" y="199.00" height="11.00" width="328.00">
+<textline id="4" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="72.00" y="199.00" height="11.00" width="328.00" number_of_words="10">
+<textword id="24" x="72.00" y="199.00" height="11.00" width="64.00" charspace="0.00">
+<text>Government</text>
+</textword>
+<textword id="25" x="139.00" y="199.00" height="11.00" width="40.00" charspace="0.00">
+<text>Gazette</text>
+</textword>
+<textword id="26" x="182.00" y="199.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="27" x="196.00" y="199.00" height="11.00" width="49.00" charspace="0.00">
+<text>Mauritius</text>
+</textword>
+<textword id="28" x="248.00" y="199.00" height="11.00" width="17.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="29" x="268.00" y="199.00" height="11.00" width="19.00" charspace="0.00">
+<text>102</text>
+</textword>
+<textword id="30" x="290.00" y="199.00" height="11.00" width="10.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="31" x="303.00" y="199.00" height="11.00" width="12.00" charspace="0.00">
+<text>19</text>
+</textword>
+<textword id="32" x="318.00" y="199.00" height="11.00" width="54.00" charspace="0.00">
+<text>November</text>
+</textword>
+<textword id="33" x="375.00" y="199.00" height="11.00" width="25.00" charspace="0.00">
+<text>2013</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="5" sparse="normal" type="body" wmode="horizontal" x="83.00" y="237.00" height="11.00" width="445.00">
+<textline id="5" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="83.00" y="237.00" height="11.00" width="445.00" number_of_words="12">
+<textword id="34" x="83.00" y="237.00" height="11.00" width="74.00" charspace="0.00">
+<text>RESUMPTION</text>
+</textword>
+<textword id="35" x="160.00" y="237.00" height="11.00" width="15.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="36" x="178.00" y="237.00" height="11.00" width="40.00" charspace="0.00">
+<text>OFFICE</text>
+</textword>
+<textword id="37" x="221.00" y="237.00" height="11.00" width="16.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="38" x="240.00" y="237.00" height="11.00" width="63.00" charspace="0.00">
+<text>PRESIDENT</text>
+</textword>
+<textword id="39" x="306.00" y="237.00" height="11.00" width="15.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="40" x="324.00" y="237.00" height="11.00" width="22.00" charspace="0.00">
+<text>THE</text>
+</textword>
+<textword id="41" x="349.00" y="237.00" height="11.00" width="56.00" charspace="0.00">
+<text>REPUBLIC</text>
+</textword>
+<textword id="42" x="409.00" y="237.00" height="11.00" width="15.00" charspace="0.00">
+<text>OF</text>
+</textword>
+<textword id="43" x="427.00" y="237.00" height="11.00" width="61.00" charspace="0.00">
+<text>MAURITIUS</text>
+</textword>
+<textword id="44" x="491.00" y="237.00" height="11.00" width="15.00" charspace="0.00">
+<text>BY</text>
+</textword>
+<textword id="45" x="509.00" y="237.00" height="11.00" width="19.00" charspace="0.00">
+<text>HIS</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="6" sparse="normal" type="body" wmode="horizontal" x="156.00" y="256.00" height="11.00" width="299.00">
+<textline id="6" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="156.00" y="256.00" height="11.00" width="299.00" number_of_words="6">
+<textword id="46" x="156.00" y="256.00" height="11.00" width="74.00" charspace="0.00">
+<text>EXCELLENCY</text>
+</textword>
+<textword id="47" x="233.00" y="256.00" height="11.00" width="13.00" charspace="0.00">
+<text>Mr</text>
+</textword>
+<textword id="48" x="250.00" y="256.00" height="11.00" width="71.00" charspace="0.00">
+<text>RAJKESWUR</text>
+</textword>
+<textword id="49" x="324.00" y="256.00" height="11.00" width="57.00" charspace="0.00">
+<text>PURRYAG,</text>
+</textword>
+<textword id="50" x="385.00" y="256.00" height="11.00" width="35.00" charspace="0.00">
+<text>GCSK,</text>
+</textword>
+<textword id="51" x="423.00" y="256.00" height="11.00" width="32.00" charspace="0.00">
+<text>GOSK</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="7" sparse="normal" type="body" wmode="horizontal" x="411.00" y="332.00" height="11.00" width="129.00">
+<textline id="7" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="411.00" y="332.00" height="11.00" width="129.00" number_of_words="2">
+<textword id="52" x="411.00" y="332.00" height="11.00" width="71.00" charspace="0.00">
+<text>RAJKESWUR</text>
+</textword>
+<textword id="53" x="485.00" y="332.00" height="11.00" width="55.00" charspace="0.00">
+<text>PURRYAG</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="8" sparse="normal" type="body" wmode="horizontal" x="417.00" y="351.00" height="11.00" width="123.00">
+<textline id="8" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="417.00" y="351.00" height="11.00" width="123.00" number_of_words="4">
+<textword id="54" x="417.00" y="351.00" height="11.00" width="46.00" charspace="0.00">
+<text>President</text>
+</textword>
+<textword id="55" x="466.00" y="351.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="56" x="478.00" y="351.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="57" x="497.00" y="351.00" height="11.00" width="43.00" charspace="0.00">
+<text>Republic</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="9" sparse="normal" type="body" wmode="horizontal" x="72.00" y="389.00" height="11.00" width="468.00">
+<textline id="9" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="72.00" y="389.00" height="11.00" width="468.00" number_of_words="10">
+<textword id="58" x="72.00" y="389.00" height="11.00" width="69.00" charspace="0.00">
+<text>RAJKESWUR</text>
+</textword>
+<textword id="59" x="144.00" y="389.00" height="11.00" width="54.00" charspace="0.00">
+<text>PURRYAG</text>
+</textword>
+<textword id="60" x="204.00" y="389.00" height="11.00" width="4.00" charspace="0.00">
+<text>-</text>
+</textword>
+<textword id="61" x="225.00" y="389.00" height="11.00" width="13.00" charspace="0.00">
+<text>By</text>
+</textword>
+<textword id="62" x="249.00" y="389.00" height="11.00" width="16.00" charspace="0.00">
+<text>His</text>
+</textword>
+<textword id="63" x="275.00" y="389.00" height="11.00" width="53.00" charspace="0.00">
+<text>Excellency</text>
+</textword>
+<textword id="64" x="338.00" y="389.00" height="11.00" width="13.00" charspace="0.00">
+<text>Mr</text>
+</textword>
+<textword id="65" x="361.00" y="389.00" height="11.00" width="70.00" charspace="0.00">
+<text>RAJKESWUR</text>
+</textword>
+<textword id="66" x="441.00" y="389.00" height="11.00" width="57.00" charspace="0.00">
+<text>PURRYAG,</text>
+</textword>
+<textword id="67" x="509.00" y="389.00" height="11.00" width="31.00" charspace="0.00">
+<text>Grand</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="10" sparse="normal" type="body" wmode="horizontal" x="225.00" y="408.00" height="11.00" width="314.00">
+<textline id="10" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="225.00" y="408.00" height="11.00" width="314.00" number_of_words="12">
+<textword id="68" x="225.00" y="408.00" height="11.00" width="61.00" charspace="0.00">
+<text>Commander</text>
+</textword>
+<textword id="69" x="292.00" y="408.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="70" x="307.00" y="408.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="71" x="328.00" y="408.00" height="11.00" width="28.00" charspace="0.00">
+<text>Order</text>
+</textword>
+<textword id="72" x="362.00" y="408.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="73" x="377.00" y="408.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="74" x="398.00" y="408.00" height="11.00" width="20.00" charspace="0.00">
+<text>Star</text>
+</textword>
+<textword id="75" x="424.00" y="408.00" height="11.00" width="19.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="76" x="448.00" y="408.00" height="11.00" width="19.00" charspace="0.00">
+<text>Key</text>
+</textword>
+<textword id="77" x="473.00" y="408.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="78" x="488.00" y="408.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="79" x="509.00" y="408.00" height="11.00" width="30.00" charspace="0.00">
+<text>Indian</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="11" sparse="normal" type="body" wmode="horizontal" x="225.00" y="427.00" height="11.00" width="314.00">
+<textline id="11" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="225.00" y="427.00" height="11.00" width="314.00" number_of_words="13">
+<textword id="80" x="225.00" y="427.00" height="11.00" width="36.00" charspace="0.00">
+<text>Ocean,</text>
+</textword>
+<textword id="81" x="266.00" y="427.00" height="11.00" width="30.00" charspace="0.00">
+<text>Grand</text>
+</textword>
+<textword id="82" x="301.00" y="427.00" height="11.00" width="32.00" charspace="0.00">
+<text>Officer</text>
+</textword>
+<textword id="83" x="338.00" y="427.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="84" x="352.00" y="427.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="85" x="372.00" y="427.00" height="11.00" width="28.00" charspace="0.00">
+<text>Order</text>
+</textword>
+<textword id="86" x="405.00" y="427.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="87" x="419.00" y="427.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="88" x="439.00" y="427.00" height="11.00" width="20.00" charspace="0.00">
+<text>Star</text>
+</textword>
+<textword id="89" x="464.00" y="427.00" height="11.00" width="18.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="90" x="487.00" y="427.00" height="11.00" width="19.00" charspace="0.00">
+<text>Key</text>
+</textword>
+<textword id="91" x="510.00" y="427.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="92" x="524.00" y="427.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="18" sparse="normal" type="body" wmode="horizontal" x="116.00" y="431.00" height="12.00" width="16.00">
+<textline id="12" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="116.00" y="431.00" height="12.00" width="16.00" number_of_words="1">
+<textword id="93" x="116.00" y="431.00" height="12.00" width="16.00" charspace="0.00">
+<text>L.S.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="12" sparse="normal" type="body" wmode="horizontal" x="225.00" y="446.00" height="11.00" width="255.00">
+<textline id="13" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="225.00" y="446.00" height="11.00" width="255.00" number_of_words="8">
+<textword id="94" x="225.00" y="446.00" height="11.00" width="30.00" charspace="1.00">
+<text>Indian</text>
+</textword>
+<textword id="95" x="258.00" y="446.00" height="11.00" width="36.00" charspace="0.00">
+<text>Ocean,</text>
+</textword>
+<textword id="96" x="297.00" y="446.00" height="11.00" width="47.00" charspace="0.00">
+<text>President</text>
+</textword>
+<textword id="97" x="346.00" y="446.00" height="11.00" width="10.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="98" x="359.00" y="446.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="99" x="377.00" y="446.00" height="11.00" width="43.00" charspace="0.00">
+<text>Republic</text>
+</textword>
+<textword id="100" x="423.00" y="446.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="101" x="435.00" y="446.00" height="11.00" width="45.00" charspace="0.00">
+<text>Mauritius</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="13" sparse="normal" type="body" wmode="horizontal" x="226.00" y="465.00" height="11.00" width="134.00">
+<textline id="14" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="226.00" y="465.00" height="11.00" width="19.00" number_of_words="1">
+<textword id="102" x="226.00" y="465.00" height="11.00" width="19.00" charspace="0.00">
+<text>&amp;c.,</text>
+</textword>
+</textline>
+<textline id="15" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="283.00" y="465.00" height="11.00" width="19.00" number_of_words="1">
+<textword id="103" x="283.00" y="465.00" height="11.00" width="19.00" charspace="0.00">
+<text>&amp;c.,</text>
+</textword>
+</textline>
+<textline id="16" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="341.00" y="465.00" height="11.00" width="19.00" number_of_words="1">
+<textword id="104" x="341.00" y="465.00" height="11.00" width="19.00" charspace="0.00">
+<text>&amp;c.,</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="14" sparse="normal" type="body" wmode="horizontal" x="88.00" y="522.00" height="11.00" width="451.00">
+<textline id="17" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="88.00" y="522.00" height="11.00" width="451.00" number_of_words="12">
+<textword id="105" x="88.00" y="522.00" height="11.00" width="16.00" charspace="0.00">
+<text>His</text>
+</textword>
+<textword id="106" x="108.00" y="522.00" height="11.00" width="53.00" charspace="0.00">
+<text>Excellency</text>
+</textword>
+<textword id="107" x="165.00" y="522.00" height="11.00" width="16.00" charspace="0.00">
+<text>Mr.</text>
+</textword>
+<textword id="108" x="186.00" y="522.00" height="11.00" width="69.00" charspace="-1.00">
+<text>RAJKESWUR</text>
+</textword>
+<textword id="109" x="259.00" y="522.00" height="11.00" width="57.00" charspace="0.00">
+<text>PURRYAG,</text>
+</textword>
+<textword id="110" x="321.00" y="522.00" height="11.00" width="34.00" charspace="0.00">
+<text>GCSK,</text>
+</textword>
+<textword id="111" x="360.00" y="522.00" height="11.00" width="34.00" charspace="0.00">
+<text>GOSK,</text>
+</textword>
+<textword id="112" x="399.00" y="522.00" height="11.00" width="46.00" charspace="0.00">
+<text>President</text>
+</textword>
+<textword id="113" x="450.00" y="522.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="114" x="463.00" y="522.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="115" x="483.00" y="522.00" height="11.00" width="43.00" charspace="0.00">
+<text>Republic</text>
+</textword>
+<textword id="116" x="530.00" y="522.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="15" sparse="normal" type="body" wmode="horizontal" x="72.00" y="541.00" height="11.00" width="467.00">
+<textline id="18" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="72.00" y="541.00" height="11.00" width="467.00" number_of_words="15">
+<textword id="117" x="72.00" y="541.00" height="11.00" width="47.00" charspace="0.00">
+<text>Mauritius,</text>
+</textword>
+<textword id="118" x="125.00" y="541.00" height="11.00" width="34.00" charspace="0.00">
+<text>hereby</text>
+</textword>
+<textword id="119" x="164.00" y="541.00" height="11.00" width="48.00" charspace="0.00">
+<text>proclaims</text>
+</textword>
+<textword id="120" x="217.00" y="541.00" height="11.00" width="19.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="121" x="241.00" y="541.00" height="11.00" width="33.00" charspace="0.00">
+<text>makes</text>
+</textword>
+<textword id="122" x="280.00" y="541.00" height="11.00" width="31.00" charspace="0.00">
+<text>known</text>
+</textword>
+<textword id="123" x="317.00" y="541.00" height="11.00" width="19.00" charspace="0.00">
+<text>that</text>
+</textword>
+<textword id="124" x="342.00" y="541.00" height="11.00" width="12.00" charspace="0.00">
+<text>he</text>
+</textword>
+<textword id="125" x="360.00" y="541.00" height="11.00" width="17.00" charspace="0.00">
+<text>has</text>
+</textword>
+<textword id="126" x="383.00" y="541.00" height="11.00" width="17.00" charspace="0.00">
+<text>this</text>
+</textword>
+<textword id="127" x="406.00" y="541.00" height="11.00" width="18.00" charspace="0.00">
+<text>day</text>
+</textword>
+<textword id="128" x="430.00" y="541.00" height="11.00" width="43.00" charspace="0.00">
+<text>resumed</text>
+</textword>
+<textword id="129" x="478.00" y="541.00" height="11.00" width="15.00" charspace="0.00">
+<text>his</text>
+</textword>
+<textword id="130" x="498.00" y="541.00" height="11.00" width="27.00" charspace="-1.00">
+<text>office</text>
+</textword>
+<textword id="131" x="530.00" y="541.00" height="11.00" width="9.00" charspace="-1.00">
+<text>of</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="16" sparse="normal" type="body" wmode="horizontal" x="72.00" y="559.00" height="10.00" width="185.00">
+<textline id="19" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="72.00" y="559.00" height="10.00" width="185.00" number_of_words="6">
+<textword id="132" x="72.00" y="559.00" height="10.00" width="46.00" charspace="0.00">
+<text>President</text>
+</textword>
+<textword id="133" x="121.00" y="559.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="134" x="133.00" y="559.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="135" x="152.00" y="559.00" height="10.00" width="42.00" charspace="0.00">
+<text>Republic</text>
+</textword>
+<textword id="136" x="197.00" y="559.00" height="10.00" width="10.00" charspace="-1.00">
+<text>of</text>
+</textword>
+<textword id="137" x="210.00" y="559.00" height="10.00" width="47.00" charspace="0.00">
+<text>Mauritius.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="17" sparse="normal" type="body" wmode="horizontal" x="88.00" y="597.00" height="10.00" width="416.00">
+<textline id="20" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="88.00" y="597.00" height="10.00" width="416.00" number_of_words="15">
+<textword id="138" x="88.00" y="597.00" height="10.00" width="29.00" charspace="0.00">
+<text>Given</text>
+</textword>
+<textword id="139" x="120.00" y="597.00" height="10.00" width="9.00" charspace="0.00">
+<text>at</text>
+</textword>
+<textword id="140" x="132.00" y="597.00" height="10.00" width="26.00" charspace="0.00">
+<text>State</text>
+</textword>
+<textword id="141" x="161.00" y="597.00" height="10.00" width="35.00" charspace="0.00">
+<text>House,</text>
+</textword>
+<textword id="142" x="199.00" y="597.00" height="10.00" width="12.00" charspace="0.00">
+<text>Le</text>
+</textword>
+<textword id="143" x="214.00" y="597.00" height="10.00" width="35.00" charspace="0.00">
+<text>Réduit,</text>
+</textword>
+<textword id="144" x="252.00" y="597.00" height="10.00" width="17.00" charspace="0.00">
+<text>this</text>
+</textword>
+<textword id="145" x="272.00" y="597.00" height="10.00" width="12.00" charspace="0.00">
+<text>18</text>
+</textword>
+<textword id="146" x="287.00" y="597.00" height="10.00" width="18.00" charspace="0.00">
+<text>day</text>
+</textword>
+<textword id="147" x="308.00" y="597.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="148" x="320.00" y="597.00" height="10.00" width="51.00" charspace="0.00">
+<text>November</text>
+</textword>
+<textword id="149" x="374.00" y="597.00" height="10.00" width="17.00" charspace="0.00">
+<text>two</text>
+</textword>
+<textword id="150" x="394.00" y="597.00" height="10.00" width="46.00" charspace="0.00">
+<text>thousand</text>
+</textword>
+<textword id="151" x="442.00" y="597.00" height="10.00" width="19.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="152" x="464.00" y="597.00" height="10.00" width="40.00" charspace="0.00">
+<text>thirteen.</text>
+</textword>
+</textline>
+</textpara>
+</column>
+<vectorcurve id="3" linewidth="0" x0="102.00" y0="340.00" x1="156.00" y1="384.00"/>
+<vectorcurve id="4" linewidth="0" x0="102.00" y0="340.00" x1="156.00" y1="384.00"/>
+<columns>
+</columns>
+<reading_order>
+	<element>box-id:0</element>
+</reading_order>
+<layout>
+<textcolumn id="2" x="72.00" y="195.00" height="503.00" width="468.00"/>
+</layout>
+</page>
+</pages>

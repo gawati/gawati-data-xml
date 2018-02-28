@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/mu/act/2016-02-25/ordinance_no_1-1954/eng@/!main">
+<page id="1" cropbox="(0, 0, 595, 841)" x="0.00" y="0.00" height="841.92" width="595.32" rotate="0">
+<column id="1" x="90.00" y="160.92" height="86.00" width="330.00" alignment="left">
+<textpara id="1" sparse="normal" type="body" wmode="horizontal" x="174.00" y="84.92" height="10.00" width="246.00">
+<textline id="1" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="174.00" y="84.92" height="10.00" width="246.00" number_of_words="7">
+<textword id="1" x="174.00" y="84.92" height="10.00" width="20.00" charspace="0.00">
+<text>The</text>
+</textword>
+<textword id="2" x="197.00" y="84.92" height="10.00" width="51.00" charspace="-1.00">
+<text>Transport</text>
+</textword>
+<textword id="3" x="251.00" y="84.92" height="10.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="4" x="265.00" y="84.92" height="10.00" width="32.00" charspace="0.00">
+<text>Heavy</text>
+</textword>
+<textword id="5" x="300.00" y="84.92" height="10.00" width="35.00" charspace="0.00">
+<text>Goods</text>
+</textword>
+<textword id="6" x="338.00" y="84.92" height="10.00" width="55.00" charspace="0.00">
+<text>Ordinance</text>
+</textword>
+<textword id="7" x="396.00" y="84.92" height="10.00" width="24.00" charspace="0.00">
+<text>1954</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="2" sparse="normal" type="body" wmode="horizontal" x="90.00" y="122.92" height="10.00" width="125.00">
+<textline id="2" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="122.92" height="10.00" width="125.00" number_of_words="5">
+<textword id="8" x="90.00" y="122.92" height="10.00" width="54.00" charspace="0.00">
+<text>Ordinance</text>
+</textword>
+<textword id="9" x="147.00" y="122.92" height="10.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="10" x="168.00" y="122.92" height="10.00" width="6.00" charspace="0.00">
+<text>1</text>
+</textword>
+<textword id="11" x="177.00" y="122.92" height="10.00" width="10.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="12" x="190.00" y="122.92" height="10.00" width="25.00" charspace="0.00">
+<text>1954</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="3" sparse="normal" type="body" wmode="horizontal" x="126.00" y="160.92" height="11.00" width="209.00">
+<textline id="3" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="126.00" y="160.92" height="11.00" width="209.00" number_of_words="7">
+<textword id="13" x="126.00" y="160.92" height="11.00" width="49.00" charspace="0.00">
+<text>Repealed</text>
+</textword>
+<textword id="14" x="178.00" y="160.92" height="11.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="15" x="193.00" y="160.92" height="11.00" width="58.00" charspace="0.00">
+<text>[Ordinance</text>
+</textword>
+<textword id="16" x="254.00" y="160.92" height="11.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="17" x="275.00" y="160.92" height="11.00" width="13.00" charspace="0.00">
+<text>65</text>
+</textword>
+<textword id="18" x="291.00" y="160.92" height="11.00" width="10.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="19" x="304.00" y="160.92" height="11.00" width="31.00" charspace="0.00">
+<text>1961].</text>
+</textword>
+</textline>
+</textpara>
+</column>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+<layout>
+<textcolumn id="2" x="90.00" y="681.00" height="86.00" width="330.00"/>
+</layout>
+</page>
+</pages>

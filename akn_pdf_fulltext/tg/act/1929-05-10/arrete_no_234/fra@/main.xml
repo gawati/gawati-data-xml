@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/tg/act/1929-05-10/arrete_no_234/fra@/!main">
+<page id="1" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R7" x0="0.00" y0="12.00" x1="594.00" y1="828.00">
+<image id="1" name="im1" type="normal" x="0.00" y="14.00" height="816.00" width="594.00"/>
+</figure>
+<figure name="140373508223568" x0="2.00" y0="85.00" x1="10.00" y1="125.00">
+<image id="2" name="im2" type="normal" x="2.00" y="717.00" height="40.00" width="8.00"/>
+</figure>
+<figure name="140373508223760" x0="279.00" y0="132.00" x1="285.00" y1="168.00">
+<image id="3" name="im3" type="normal" x="279.00" y="674.00" height="36.00" width="6.00"/>
+</figure>
+<figure name="140373508223952" x0="2.00" y0="365.00" x1="16.00" y1="397.00">
+<image id="4" name="im4" type="normal" x="2.00" y="445.00" height="32.00" width="14.00"/>
+</figure>
+<rect id="1" linewidth="0" x0="4.00" y0="41.00" x1="272.00" y1="775.00"/>
+<vectorcurve id="1" linewidth="16" x0="4.00" y0="41.00" x1="272.00" y1="775.00"/>
+<rect id="1" linewidth="0" x0="294.00" y0="691.00" x1="570.00" y1="780.00"/>
+<vectorcurve id="1" linewidth="16" x0="294.00" y0="691.00" x1="570.00" y1="780.00"/>
+<rect id="1" linewidth="0" x0="292.00" y0="39.00" x1="578.00" y1="332.00"/>
+<vectorcurve id="1" linewidth="16" x0="292.00" y0="39.00" x1="578.00" y1="332.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+</pages>

@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/mu/act/1981-05-11/g_n_no_100-1981/eng@/!main">
+<page id="1" cropbox="(0, 0, 612, 792)" x="0.00" y="0.00" height="792.00" width="612.00" rotate="0">
+<column id="1" x="66.00" y="275.00" height="200.00" width="480.00" alignment="center">
+<textpara id="1" sparse="normal" type="body" wmode="horizontal" x="204.00" y="85.00" height="10.00" width="203.00">
+<textline id="1" nature="list line letter type" continuation="true" type="unassigned" sparse="normal line" tag="p" x="204.00" y="85.00" height="10.00" width="203.00" number_of_words="6">
+<textword id="1" x="204.00" y="85.00" height="10.00" width="28.00" charspace="0.00">
+<text>Road</text>
+</textword>
+<textword id="2" x="235.00" y="85.00" height="10.00" width="33.00" charspace="0.00">
+<text>Traffic</text>
+</textword>
+<textword id="3" x="271.00" y="85.00" height="10.00" width="30.00" charspace="0.00">
+<text>(Crop</text>
+</textword>
+<textword id="4" x="304.00" y="85.00" height="10.00" width="42.00" charspace="0.00">
+<text>Season)</text>
+</textword>
+<textword id="5" x="349.00" y="85.00" height="10.00" width="31.00" charspace="0.00">
+<text>Order</text>
+</textword>
+<textword id="6" x="383.00" y="85.00" height="10.00" width="24.00" charspace="0.00">
+<text>1981</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="2" sparse="normal" type="body" wmode="horizontal" x="66.00" y="123.00" height="11.00" width="102.00">
+<textline id="2" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="66.00" y="123.00" height="11.00" width="102.00" number_of_words="6">
+<textword id="7" x="66.00" y="123.00" height="11.00" width="8.00" charspace="0.00">
+<text>G</text>
+</textword>
+<textword id="8" x="77.00" y="123.00" height="11.00" width="8.00" charspace="0.00">
+<text>N</text>
+</textword>
+<textword id="9" x="88.00" y="123.00" height="11.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="10" x="109.00" y="123.00" height="11.00" width="18.00" charspace="0.00">
+<text>100</text>
+</textword>
+<textword id="11" x="130.00" y="123.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="12" x="144.00" y="123.00" height="11.00" width="24.00" charspace="0.00">
+<text>1981</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="3" sparse="normal" type="body" wmode="horizontal" x="66.00" y="148.00" height="10.00" width="39.00">
+<textline id="3" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="66.00" y="148.00" height="10.00" width="39.00" number_of_words="2">
+<textword id="13" x="66.00" y="148.00" height="10.00" width="15.00" charspace="0.00">
+<text>6th</text>
+</textword>
+<textword id="14" x="84.00" y="148.00" height="10.00" width="21.00" charspace="0.00">
+<text>May</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="4" sparse="normal" type="body" wmode="horizontal" x="131.00" y="173.00" height="10.00" width="349.00">
+<textline id="4" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="131.00" y="173.00" height="10.00" width="349.00" number_of_words="13">
+<textword id="15" x="131.00" y="173.00" height="10.00" width="30.00" charspace="0.00">
+<text>Order</text>
+</textword>
+<textword id="16" x="164.00" y="173.00" height="10.00" width="29.00" charspace="0.00">
+<text>made</text>
+</textword>
+<textword id="17" x="196.00" y="173.00" height="10.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="18" x="211.00" y="173.00" height="10.00" width="17.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="19" x="231.00" y="173.00" height="10.00" width="42.00" charspace="0.00">
+<text>Minister</text>
+</textword>
+<textword id="20" x="276.00" y="173.00" height="10.00" width="31.00" charspace="0.00">
+<text>under</text>
+</textword>
+<textword id="21" x="310.00" y="173.00" height="10.00" width="38.00" charspace="0.00">
+<text>section</text>
+</textword>
+<textword id="22" x="351.00" y="173.00" height="10.00" width="13.00" charspace="0.00">
+<text>28</text>
+</textword>
+<textword id="23" x="367.00" y="173.00" height="10.00" width="13.00" charspace="0.00">
+<text>(5)</text>
+</textword>
+<textword id="24" x="383.00" y="173.00" height="10.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="25" x="397.00" y="173.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="26" x="416.00" y="173.00" height="10.00" width="28.00" charspace="0.00">
+<text>Road</text>
+</textword>
+<textword id="27" x="447.00" y="173.00" height="10.00" width="33.00" charspace="-1.00">
+<text>Traffic</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="5" sparse="normal" type="body" wmode="horizontal" x="263.00" y="186.00" height="10.00" width="85.00">
+<textline id="5" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="263.00" y="186.00" height="10.00" width="85.00" number_of_words="2">
+<textword id="28" x="263.00" y="186.00" height="10.00" width="58.00" charspace="0.00">
+<text>Ordinance,</text>
+</textword>
+<textword id="29" x="324.00" y="186.00" height="10.00" width="24.00" charspace="0.00">
+<text>1962</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="6" sparse="normal" type="body" wmode="horizontal" x="66.00" y="211.00" height="10.00" width="371.00">
+<textline id="6" nature="list line letter type" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="66.00" y="211.00" height="10.00" width="371.00" number_of_words="14">
+<textword id="30" x="66.00" y="211.00" height="10.00" width="9.00" charspace="0.00">
+<text>1.</text>
+</textword>
+<textword id="31" x="78.00" y="211.00" height="10.00" width="21.00" charspace="1.00">
+<text>This</text>
+</textword>
+<textword id="32" x="102.00" y="211.00" height="10.00" width="28.00" charspace="0.00">
+<text>Order</text>
+</textword>
+<textword id="33" x="133.00" y="211.00" height="10.00" width="21.00" charspace="0.00">
+<text>may</text>
+</textword>
+<textword id="34" x="157.00" y="211.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="35" x="172.00" y="211.00" height="10.00" width="23.00" charspace="0.00">
+<text>cited</text>
+</textword>
+<textword id="36" x="198.00" y="211.00" height="10.00" width="12.00" charspace="0.00">
+<text>as</text>
+</textword>
+<textword id="37" x="213.00" y="211.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="38" x="231.00" y="211.00" height="10.00" width="28.00" charspace="0.00">
+<text>Road</text>
+</textword>
+<textword id="39" x="262.00" y="211.00" height="10.00" width="33.00" charspace="-1.00">
+<text>Traffic</text>
+</textword>
+<textword id="40" x="298.00" y="211.00" height="10.00" width="30.00" charspace="0.00">
+<text>(Crop</text>
+</textword>
+<textword id="41" x="331.00" y="211.00" height="10.00" width="43.00" charspace="0.00">
+<text>Season)</text>
+</textword>
+<textword id="42" x="377.00" y="211.00" height="10.00" width="30.00" charspace="0.00">
+<text>Order</text>
+</textword>
+<textword id="43" x="410.00" y="211.00" height="10.00" width="27.00" charspace="0.00">
+<text>1981.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="7" sparse="normal" type="body" wmode="horizontal" x="66.00" y="237.00" height="10.00" width="480.00">
+<textline id="7" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="66.00" y="237.00" height="10.00" width="480.00" number_of_words="19">
+<textword id="44" x="66.00" y="237.00" height="10.00" width="9.00" charspace="0.00">
+<text>2.</text>
+</textword>
+<textword id="45" x="79.00" y="237.00" height="10.00" width="20.00" charspace="0.00">
+<text>The</text>
+</textword>
+<textword id="46" x="103.00" y="237.00" height="10.00" width="24.00" charspace="0.00">
+<text>Crop</text>
+</textword>
+<textword id="47" x="132.00" y="237.00" height="10.00" width="37.00" charspace="0.00">
+<text>Season</text>
+</textword>
+<textword id="48" x="174.00" y="237.00" height="10.00" width="30.00" charspace="0.00">
+<text>period</text>
+</textword>
+<textword id="49" x="209.00" y="237.00" height="10.00" width="8.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="50" x="222.00" y="237.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="51" x="242.00" y="237.00" height="10.00" width="21.00" charspace="0.00">
+<text>year</text>
+</textword>
+<textword id="52" x="268.00" y="237.00" height="10.00" width="25.00" charspace="0.00">
+<text>1981</text>
+</textword>
+<textword id="53" x="297.00" y="237.00" height="10.00" width="26.00" charspace="0.00">
+<text>shall,</text>
+</textword>
+<textword id="54" x="327.00" y="237.00" height="10.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="55" x="345.00" y="237.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="56" x="365.00" y="237.00" height="10.00" width="45.00" charspace="0.00">
+<text>purposes</text>
+</textword>
+<textword id="57" x="415.00" y="237.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="58" x="429.00" y="237.00" height="10.00" width="35.00" charspace="0.00">
+<text>section</text>
+</textword>
+<textword id="59" x="469.00" y="237.00" height="10.00" width="12.00" charspace="0.00">
+<text>28</text>
+</textword>
+<textword id="60" x="486.00" y="237.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="61" x="499.00" y="237.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="62" x="519.00" y="237.00" height="10.00" width="27.00" charspace="0.00">
+<text>Road</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="8" sparse="normal" type="body" wmode="horizontal" x="66.00" y="249.00" height="10.00" width="392.00">
+<textline id="8" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="66.00" y="249.00" height="10.00" width="392.00" number_of_words="12">
+<textword id="63" x="66.00" y="249.00" height="10.00" width="30.00" charspace="0.00">
+<text>Traffic</text>
+</textword>
+<textword id="64" x="99.00" y="249.00" height="10.00" width="54.00" charspace="0.00">
+<text>Ordinance,</text>
+</textword>
+<textword id="65" x="156.00" y="249.00" height="10.00" width="27.00" charspace="0.00">
+<text>1962,</text>
+</textword>
+<textword id="66" x="187.00" y="249.00" height="10.00" width="33.00" charspace="0.00">
+<text>extend</text>
+</textword>
+<textword id="67" x="223.00" y="249.00" height="10.00" width="22.00" charspace="0.00">
+<text>from</text>
+</textword>
+<textword id="68" x="248.00" y="249.00" height="10.00" width="3.00" charspace="0.00">
+<text>I</text>
+</textword>
+<textword id="69" x="254.00" y="249.00" height="10.00" width="24.00" charspace="0.00">
+<text>June</text>
+</textword>
+<textword id="70" x="281.00" y="249.00" height="10.00" width="21.00" charspace="0.00">
+<text>to31</text>
+</textword>
+<textword id="71" x="305.00" y="249.00" height="10.00" width="54.00" charspace="0.00">
+<text>December,</text>
+</textword>
+<textword id="72" x="362.00" y="249.00" height="10.00" width="22.00" charspace="0.00">
+<text>both</text>
+</textword>
+<textword id="73" x="387.00" y="249.00" height="10.00" width="23.00" charspace="0.00">
+<text>days</text>
+</textword>
+<textword id="74" x="413.00" y="249.00" height="10.00" width="45.00" charspace="0.00">
+<text>inclusive.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="9" sparse="normal" type="body" wmode="horizontal" x="66.00" y="275.00" height="11.00" width="187.00">
+<textline id="9" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="66.00" y="275.00" height="11.00" width="187.00" number_of_words="8">
+<textword id="75" x="66.00" y="275.00" height="11.00" width="27.00" charspace="-1.00">
+<text>Made</text>
+</textword>
+<textword id="76" x="96.00" y="275.00" height="11.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="77" x="111.00" y="275.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="78" x="129.00" y="275.00" height="11.00" width="39.00" charspace="0.00">
+<text>Minister</text>
+</textword>
+<textword id="79" x="171.00" y="275.00" height="11.00" width="12.00" charspace="0.00">
+<text>on</text>
+</textword>
+<textword id="80" x="186.00" y="275.00" height="11.00" width="12.00" charspace="0.00">
+<text>11</text>
+</textword>
+<textword id="81" x="201.00" y="275.00" height="11.00" width="21.00" charspace="-1.00">
+<text>May</text>
+</textword>
+<textword id="82" x="225.00" y="275.00" height="11.00" width="28.00" charspace="0.00">
+<text>1981.</text>
+</textword>
+</textline>
+</textpara>
+</column>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+<layout>
+<textcolumn id="2" x="66.00" y="517.00" height="200.00" width="480.00"/>
+</layout>
+</page>
+</pages>

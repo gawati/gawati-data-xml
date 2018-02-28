@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/mu/act/1939-01-20/gn_no_4_of_1939/eng@/!main">
+<page id="1" cropbox="(0, 0, 612, 792)" x="0.00" y="0.00" height="792.00" width="612.00" rotate="0">
+<column id="1" x="90.00" y="705.00" height="630.00" width="432.00" alignment="center">
+<textpara id="1" sparse="normal" type="body" wmode="horizontal" x="144.00" y="85.00" height="10.00" width="323.00">
+<textline id="1" nature="list line letter type" continuation="true" type="unassigned" sparse="normal line" tag="p" x="144.00" y="85.00" height="10.00" width="323.00" number_of_words="6">
+<textword id="1" x="144.00" y="85.00" height="10.00" width="37.00" charspace="0.00">
+<text>Labour</text>
+</textword>
+<textword id="2" x="184.00" y="85.00" height="10.00" width="55.00" charspace="0.00">
+<text>Ordinance</text>
+</textword>
+<textword id="3" x="242.00" y="85.00" height="10.00" width="47.00" charspace="0.00">
+<text>(Sanitary</text>
+</textword>
+<textword id="4" x="292.00" y="85.00" height="10.00" width="78.00" charspace="0.00">
+<text>Arrangements)</text>
+</textword>
+<textword id="5" x="374.00" y="85.00" height="10.00" width="66.00" charspace="0.00">
+<text>Regulations,</text>
+</textword>
+<textword id="6" x="443.00" y="85.00" height="10.00" width="24.00" charspace="0.00">
+<text>1939</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="2" sparse="normal" type="body" wmode="horizontal" x="90.00" y="123.00" height="23.00" width="87.00">
+<textline id="2" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="110.00" height="10.00" width="87.00" number_of_words="5">
+<textword id="7" x="90.00" y="110.00" height="10.00" width="16.00" charspace="0.00">
+<text>GN</text>
+</textword>
+<textword id="8" x="109.00" y="110.00" height="10.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="9" x="130.00" y="110.00" height="10.00" width="6.00" charspace="0.00">
+<text>4</text>
+</textword>
+<textword id="10" x="139.00" y="110.00" height="10.00" width="10.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="11" x="153.00" y="110.00" height="10.00" width="24.00" charspace="0.00">
+<text>1939</text>
+</textword>
+</textline>
+<textline id="3" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="123.00" height="10.00" width="66.00" number_of_words="2">
+<textword id="12" x="90.00" y="123.00" height="10.00" width="21.00" charspace="0.00">
+<text>28th</text>
+</textword>
+<textword id="13" x="114.00" y="123.00" height="10.00" width="42.00" charspace="0.00">
+<text>January.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="3" sparse="normal" type="body" wmode="horizontal" x="93.00" y="148.00" height="10.00" width="425.00">
+<textline id="4" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="93.00" y="148.00" height="10.00" width="425.00" number_of_words="13">
+<textword id="14" x="93.00" y="148.00" height="10.00" width="63.00" charspace="0.00">
+<text>Regulations</text>
+</textword>
+<textword id="15" x="159.00" y="148.00" height="10.00" width="29.00" charspace="0.00">
+<text>made</text>
+</textword>
+<textword id="16" x="191.00" y="148.00" height="10.00" width="13.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="17" x="207.00" y="148.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="18" x="226.00" y="148.00" height="10.00" width="50.00" charspace="0.00">
+<text>Governor</text>
+</textword>
+<textword id="19" x="279.00" y="148.00" height="10.00" width="10.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="20" x="292.00" y="148.00" height="10.00" width="51.00" charspace="0.00">
+<text>Executive</text>
+</textword>
+<textword id="21" x="346.00" y="148.00" height="10.00" width="40.00" charspace="0.00">
+<text>Council</text>
+</textword>
+<textword id="22" x="390.00" y="148.00" height="10.00" width="30.00" charspace="0.00">
+<text>under</text>
+</textword>
+<textword id="23" x="423.00" y="148.00" height="10.00" width="40.00" charspace="0.00">
+<text>Articles</text>
+</textword>
+<textword id="24" x="466.00" y="148.00" height="10.00" width="13.00" charspace="0.00">
+<text>79</text>
+</textword>
+<textword id="25" x="482.00" y="148.00" height="10.00" width="13.00" charspace="0.00">
+<text>(1)</text>
+</textword>
+<textword id="26" x="498.00" y="148.00" height="10.00" width="20.00" charspace="0.00">
+<text>and</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="4" sparse="normal" type="body" wmode="horizontal" x="211.00" y="161.00" height="11.00" width="213.00">
+<textline id="5" nature="list line letter type" continuation="true" type="unassigned" sparse="normal line" tag="p" x="211.00" y="161.00" height="11.00" width="213.00" number_of_words="8">
+<textword id="27" x="211.00" y="161.00" height="11.00" width="18.00" charspace="0.00">
+<text>137</text>
+</textword>
+<textword id="28" x="233.00" y="161.00" height="11.00" width="13.00" charspace="0.00">
+<text>(1)</text>
+</textword>
+<textword id="29" x="249.00" y="161.00" height="11.00" width="14.00" charspace="0.00">
+<text>(d)</text>
+</textword>
+<textword id="30" x="266.00" y="161.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="31" x="280.00" y="161.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="32" x="299.00" y="161.00" height="11.00" width="37.00" charspace="0.00">
+<text>Labour</text>
+</textword>
+<textword id="33" x="339.00" y="161.00" height="11.00" width="55.00" charspace="0.00">
+<text>Ordinance</text>
+</textword>
+<textword id="34" x="397.00" y="161.00" height="11.00" width="27.00" charspace="0.00">
+<text>1938.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="5" sparse="normal" type="body" wmode="horizontal" x="114.00" y="186.00" height="10.00" width="407.00">
+<textline id="6" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="114.00" y="186.00" height="10.00" width="407.00" number_of_words="11">
+<textword id="35" x="114.00" y="186.00" height="10.00" width="9.00" charspace="0.00">
+<text>1.</text>
+</textword>
+<textword id="36" x="132.00" y="186.00" height="10.00" width="31.00" charspace="0.00">
+<text>These</text>
+</textword>
+<textword id="37" x="172.00" y="186.00" height="10.00" width="58.00" charspace="0.00">
+<text>Regulations</text>
+</textword>
+<textword id="38" x="239.00" y="186.00" height="10.00" width="21.00" charspace="0.00">
+<text>may</text>
+</textword>
+<textword id="39" x="268.00" y="186.00" height="10.00" width="13.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="40" x="290.00" y="186.00" height="10.00" width="23.00" charspace="0.00">
+<text>cited</text>
+</textword>
+<textword id="41" x="322.00" y="186.00" height="10.00" width="12.00" charspace="0.00">
+<text>as</text>
+</textword>
+<textword id="42" x="343.00" y="186.00" height="10.00" width="22.00" charspace="0.00">
+<text>“The</text>
+</textword>
+<textword id="43" x="374.00" y="186.00" height="10.00" width="35.00" charspace="0.00">
+<text>Labour</text>
+</textword>
+<textword id="44" x="418.00" y="186.00" height="10.00" width="50.00" charspace="0.00">
+<text>Ordinance</text>
+</textword>
+<textword id="45" x="477.00" y="186.00" height="10.00" width="44.00" charspace="0.00">
+<text>(Sanitary</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="6" sparse="normal" type="body" wmode="horizontal" x="114.00" y="199.00" height="10.00" width="171.00">
+<textline id="7" nature="list line letter type" continuation="true" type="unassigned" sparse="list line letter type" tag="p" x="114.00" y="199.00" height="10.00" width="171.00" number_of_words="3">
+<textword id="46" x="114.00" y="199.00" height="10.00" width="73.00" charspace="0.00">
+<text>Arrangements)</text>
+</textword>
+<textword id="47" x="190.00" y="199.00" height="10.00" width="61.00" charspace="0.00">
+<text>Regulations,</text>
+</textword>
+<textword id="48" x="254.00" y="199.00" height="10.00" width="31.00" charspace="0.00">
+<text>1939”.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="7" sparse="normal" type="body" wmode="horizontal" x="114.00" y="224.00" height="10.00" width="407.00">
+<textline id="8" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="114.00" y="224.00" height="10.00" width="407.00" number_of_words="13">
+<textword id="49" x="114.00" y="224.00" height="10.00" width="9.00" charspace="0.00">
+<text>2.</text>
+</textword>
+<textword id="50" x="126.00" y="224.00" height="10.00" width="15.00" charspace="0.00">
+<text>On</text>
+</textword>
+<textword id="51" x="145.00" y="224.00" height="10.00" width="26.00" charspace="0.00">
+<text>every</text>
+</textword>
+<textword id="52" x="175.00" y="224.00" height="10.00" width="30.00" charspace="0.00">
+<text>estate</text>
+</textword>
+<textword id="53" x="208.00" y="224.00" height="10.00" width="25.00" charspace="0.00">
+<text>there</text>
+</textword>
+<textword id="54" x="237.00" y="224.00" height="10.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="55" x="262.00" y="224.00" height="10.00" width="13.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="56" x="278.00" y="224.00" height="10.00" width="44.00" charspace="0.00">
+<text>sufficient</text>
+</textword>
+<textword id="57" x="325.00" y="224.00" height="10.00" width="38.00" charspace="0.00">
+<text>sanitary</text>
+</textword>
+<textword id="58" x="367.00" y="224.00" height="10.00" width="78.00" charspace="0.00">
+<text>accommodation</text>
+</textword>
+<textword id="59" x="448.00" y="224.00" height="10.00" width="42.00" charspace="0.00">
+<text>provided</text>
+</textword>
+<textword id="60" x="493.00" y="224.00" height="10.00" width="10.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="61" x="506.00" y="224.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="8" sparse="normal" type="body" wmode="horizontal" x="114.00" y="249.00" height="23.00" width="407.00">
+<textline id="9" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="114.00" y="237.00" height="11.00" width="407.00" number_of_words="12">
+<textword id="62" x="114.00" y="237.00" height="11.00" width="55.00" charspace="0.00">
+<text>satisfaction</text>
+</textword>
+<textword id="63" x="176.00" y="237.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="64" x="192.00" y="237.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="65" x="214.00" y="237.00" height="11.00" width="37.00" charspace="0.00">
+<text>Medical</text>
+</textword>
+<textword id="66" x="258.00" y="237.00" height="11.00" width="33.00" charspace="0.00">
+<text>Officer</text>
+</textword>
+<textword id="67" x="297.00" y="237.00" height="11.00" width="10.00" charspace="-1.00">
+<text>of</text>
+</textword>
+<textword id="68" x="313.00" y="237.00" height="11.00" width="16.00" charspace="1.00">
+<text>the</text>
+</textword>
+<textword id="69" x="335.00" y="237.00" height="11.00" width="58.00" charspace="0.00">
+<text>Department</text>
+</textword>
+<textword id="70" x="400.00" y="237.00" height="11.00" width="12.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="71" x="419.00" y="237.00" height="11.00" width="11.00" charspace="0.00">
+<text>all</text>
+</textword>
+<textword id="72" x="437.00" y="237.00" height="11.00" width="39.00" charspace="0.00">
+<text>persons</text>
+</textword>
+<textword id="73" x="483.00" y="237.00" height="11.00" width="38.00" charspace="0.00">
+<text>residing</text>
+</textword>
+</textline>
+<textline id="10" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="114.00" y="249.00" height="10.00" width="40.00" number_of_words="1">
+<textword id="74" x="114.00" y="249.00" height="10.00" width="40.00" charspace="0.00">
+<text>thereon.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="9" sparse="normal" type="body" wmode="horizontal" x="114.00" y="275.00" height="11.00" width="408.00">
+<textline id="11" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="114.00" y="275.00" height="11.00" width="408.00" number_of_words="15">
+<textword id="75" x="114.00" y="275.00" height="11.00" width="9.00" charspace="0.00">
+<text>3.</text>
+</textword>
+<textword id="76" x="128.00" y="275.00" height="11.00" width="16.00" charspace="0.00">
+<text>Pit,</text>
+</textword>
+<textword id="77" x="149.00" y="275.00" height="11.00" width="17.00" charspace="0.00">
+<text>pail</text>
+</textword>
+<textword id="78" x="171.00" y="275.00" height="11.00" width="10.00" charspace="0.00">
+<text>or</text>
+</textword>
+<textword id="79" x="185.00" y="275.00" height="11.00" width="26.00" charspace="-1.00">
+<text>other</text>
+</textword>
+<textword id="80" x="215.00" y="275.00" height="11.00" width="36.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="81" x="256.00" y="275.00" height="11.00" width="11.00" charspace="0.00">
+<text>as</text>
+</textword>
+<textword id="82" x="272.00" y="275.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="83" x="292.00" y="275.00" height="11.00" width="38.00" charspace="-1.00">
+<text>Medical</text>
+</textword>
+<textword id="84" x="335.00" y="275.00" height="11.00" width="32.00" charspace="-1.00">
+<text>Officer</text>
+</textword>
+<textword id="85" x="372.00" y="275.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="86" x="386.00" y="275.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="87" x="407.00" y="275.00" height="11.00" width="57.00" charspace="1.00">
+<text>Department</text>
+</textword>
+<textword id="88" x="469.00" y="275.00" height="11.00" width="21.00" charspace="0.00">
+<text>may</text>
+</textword>
+<textword id="89" x="495.00" y="275.00" height="11.00" width="27.00" charspace="0.00">
+<text>direct</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="10" sparse="normal" type="body" wmode="horizontal" x="114.00" y="288.00" height="11.00" width="339.00">
+<textline id="12" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="114.00" y="288.00" height="11.00" width="339.00" number_of_words="13">
+<textword id="90" x="114.00" y="288.00" height="11.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="91" x="140.00" y="288.00" height="11.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="92" x="155.00" y="288.00" height="11.00" width="57.00" charspace="0.00">
+<text>constructed</text>
+</textword>
+<textword id="93" x="215.00" y="288.00" height="11.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="94" x="231.00" y="288.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="95" x="249.00" y="288.00" height="11.00" width="18.00" charspace="0.00">
+<text>use</text>
+</textword>
+<textword id="96" x="270.00" y="288.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="97" x="282.00" y="288.00" height="11.00" width="11.00" charspace="0.00">
+<text>all</text>
+</textword>
+<textword id="98" x="296.00" y="288.00" height="11.00" width="46.00" charspace="0.00">
+<text>labourers</text>
+</textword>
+<textword id="99" x="345.00" y="288.00" height="11.00" width="38.00" charspace="0.00">
+<text>residing</text>
+</textword>
+<textword id="100" x="387.00" y="288.00" height="11.00" width="12.00" charspace="0.00">
+<text>on</text>
+</textword>
+<textword id="101" x="402.00" y="288.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="102" x="420.00" y="288.00" height="11.00" width="33.00" charspace="0.00">
+<text>estate.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="11" sparse="normal" type="body" wmode="horizontal" x="114.00" y="313.00" height="11.00" width="408.00">
+<textline id="13" nature="list line letter type" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="114.00" y="313.00" height="11.00" width="408.00" number_of_words="15">
+<textword id="103" x="114.00" y="313.00" height="11.00" width="9.00" charspace="0.00">
+<text>4.</text>
+</textword>
+<textword id="104" x="127.00" y="313.00" height="11.00" width="9.00" charspace="0.00">
+<text>In</text>
+</textword>
+<textword id="105" x="140.00" y="313.00" height="11.00" width="29.00" charspace="0.00">
+<text>cases</text>
+</textword>
+<textword id="106" x="173.00" y="313.00" height="11.00" width="30.00" charspace="-1.00">
+<text>where</text>
+</textword>
+<textword id="107" x="206.00" y="313.00" height="11.00" width="43.00" charspace="0.00">
+<text>common</text>
+</textword>
+<textword id="108" x="252.00" y="313.00" height="11.00" width="36.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="109" x="292.00" y="313.00" height="11.00" width="18.00" charspace="0.00">
+<text>(i.e.</text>
+</textword>
+<textword id="110" x="314.00" y="313.00" height="11.00" width="16.00" charspace="0.00">
+<text>not</text>
+</textword>
+<textword id="111" x="333.00" y="313.00" height="11.00" width="7.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="112" x="343.00" y="313.00" height="11.00" width="33.00" charspace="0.00">
+<text>private</text>
+</textword>
+<textword id="113" x="380.00" y="313.00" height="11.00" width="30.00" charspace="0.00">
+<text>latrine</text>
+</textword>
+<textword id="114" x="414.00" y="313.00" height="11.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="115" x="431.00" y="313.00" height="11.00" width="24.00" charspace="0.00">
+<text>each</text>
+</textword>
+<textword id="116" x="458.00" y="313.00" height="11.00" width="44.00" charspace="0.00">
+<text>dwelling)</text>
+</textword>
+<textword id="117" x="506.00" y="313.00" height="11.00" width="16.00" charspace="0.00">
+<text>are</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="12" sparse="normal" type="body" wmode="horizontal" x="114.00" y="325.00" height="10.00" width="387.00">
+<textline id="14" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="114.00" y="325.00" height="10.00" width="387.00" number_of_words="10">
+<textword id="118" x="114.00" y="325.00" height="10.00" width="60.00" charspace="0.00">
+<text>constructed,</text>
+</textword>
+<textword id="119" x="177.00" y="325.00" height="10.00" width="43.00" charspace="0.00">
+<text>separate</text>
+</textword>
+<textword id="120" x="223.00" y="325.00" height="10.00" width="77.00" charspace="0.00">
+<text>accommodation</text>
+</textword>
+<textword id="121" x="304.00" y="325.00" height="10.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="122" x="329.00" y="325.00" height="10.00" width="12.00" charspace="0.00">
+<text>he</text>
+</textword>
+<textword id="123" x="344.00" y="325.00" height="10.00" width="42.00" charspace="0.00">
+<text>provided</text>
+</textword>
+<textword id="124" x="389.00" y="325.00" height="10.00" width="14.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="125" x="405.00" y="325.00" height="10.00" width="30.00" charspace="0.00">
+<text>males</text>
+</textword>
+<textword id="126" x="438.00" y="325.00" height="10.00" width="18.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="127" x="459.00" y="325.00" height="10.00" width="42.00" charspace="0.00">
+<text>females.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="13" sparse="normal" type="body" wmode="horizontal" x="114.00" y="351.00" height="11.00" width="407.00">
+<textline id="15" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="114.00" y="351.00" height="11.00" width="407.00" number_of_words="13">
+<textword id="128" x="114.00" y="351.00" height="11.00" width="30.00" charspace="0.00">
+<text>5.—(i)</text>
+</textword>
+<textword id="129" x="147.00" y="351.00" height="11.00" width="39.00" charspace="0.00">
+<text>Latrines</text>
+</textword>
+<textword id="130" x="190.00" y="351.00" height="11.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="131" x="216.00" y="351.00" height="11.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="132" x="231.00" y="351.00" height="11.00" width="9.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="133" x="243.00" y="351.00" height="11.00" width="57.00" charspace="0.00">
+<text>accordance</text>
+</textword>
+<textword id="134" x="304.00" y="351.00" height="11.00" width="19.00" charspace="-1.00">
+<text>with</text>
+</textword>
+<textword id="135" x="326.00" y="351.00" height="11.00" width="66.00" charspace="0.00">
+<text>specifications</text>
+</textword>
+<textword id="136" x="396.00" y="351.00" height="11.00" width="17.00" charspace="0.00">
+<text>laid</text>
+</textword>
+<textword id="137" x="416.00" y="351.00" height="11.00" width="27.00" charspace="0.00">
+<text>down</text>
+</textword>
+<textword id="138" x="446.00" y="351.00" height="11.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="139" x="461.00" y="351.00" height="11.00" width="19.00" charspace="0.00">
+<text>The</text>
+</textword>
+<textword id="140" x="483.00" y="351.00" height="11.00" width="38.00" charspace="-1.00">
+<text>Medical</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="14" sparse="normal" type="body" wmode="horizontal" x="114.00" y="363.00" height="10.00" width="407.00">
+<textline id="16" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="114.00" y="363.00" height="10.00" width="407.00" number_of_words="12">
+<textword id="141" x="114.00" y="363.00" height="10.00" width="32.00" charspace="0.00">
+<text>Officer</text>
+</textword>
+<textword id="142" x="154.00" y="363.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="143" x="170.00" y="363.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="144" x="192.00" y="363.00" height="10.00" width="58.00" charspace="0.00">
+<text>Department</text>
+</textword>
+<textword id="145" x="257.00" y="363.00" height="10.00" width="18.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="146" x="282.00" y="363.00" height="10.00" width="23.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="147" x="312.00" y="363.00" height="10.00" width="20.00" charspace="0.00">
+<text>only</text>
+</textword>
+<textword id="148" x="339.00" y="363.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="149" x="359.00" y="363.00" height="10.00" width="57.00" charspace="0.00">
+<text>constructed</text>
+</textword>
+<textword id="150" x="423.00" y="363.00" height="10.00" width="12.00" charspace="0.00">
+<text>on</text>
+</textword>
+<textword id="151" x="442.00" y="363.00" height="10.00" width="23.00" charspace="0.00">
+<text>sites</text>
+</textword>
+<textword id="152" x="472.00" y="363.00" height="10.00" width="49.00" charspace="0.00">
+<text>previously</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="15" sparse="normal" type="body" wmode="horizontal" x="163.00" y="376.00" height="10.00" width="85.00">
+<textline id="17" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="376.00" height="10.00" width="85.00" number_of_words="3">
+<textword id="153" x="163.00" y="376.00" height="10.00" width="46.00" charspace="0.00">
+<text>approved</text>
+</textword>
+<textword id="154" x="212.00" y="376.00" height="10.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="155" x="227.00" y="376.00" height="10.00" width="21.00" charspace="0.00">
+<text>him.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="16" sparse="normal" type="body" wmode="horizontal" x="172.00" y="401.00" height="10.00" width="349.00">
+<textline id="18" nature="list line letter type" continuation="true" type="unassigned" sparse="list line letter type" tag="p" x="172.00" y="401.00" height="10.00" width="349.00" number_of_words="15">
+<textword id="156" x="172.00" y="401.00" height="10.00" width="12.00" charspace="0.00">
+<text>(ii)</text>
+</textword>
+<textword id="157" x="189.00" y="401.00" height="10.00" width="13.00" charspace="0.00">
+<text>Pit</text>
+</textword>
+<textword id="158" x="206.00" y="401.00" height="10.00" width="35.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="159" x="246.00" y="401.00" height="10.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="160" x="273.00" y="401.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="161" x="289.00" y="401.00" height="10.00" width="19.00" charspace="0.00">
+<text>dug</text>
+</textword>
+<textword id="162" x="312.00" y="401.00" height="10.00" width="9.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="163" x="325.00" y="401.00" height="10.00" width="7.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="164" x="336.00" y="401.00" height="10.00" width="27.00" charspace="0.00">
+<text>depth</text>
+</textword>
+<textword id="165" x="368.00" y="401.00" height="10.00" width="9.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="166" x="381.00" y="401.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="167" x="398.00" y="401.00" height="10.00" width="45.00" charspace="0.00">
+<text>approved</text>
+</textword>
+<textword id="168" x="448.00" y="401.00" height="10.00" width="11.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="169" x="464.00" y="401.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="170" x="483.00" y="401.00" height="10.00" width="38.00" charspace="-1.00">
+<text>Medical</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="17" sparse="normal" type="body" wmode="horizontal" x="163.00" y="414.00" height="10.00" width="127.00">
+<textline id="19" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="414.00" height="10.00" width="127.00" number_of_words="4">
+<textword id="171" x="163.00" y="414.00" height="10.00" width="33.00" charspace="0.00">
+<text>Officer</text>
+</textword>
+<textword id="172" x="199.00" y="414.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="173" x="211.00" y="414.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="174" x="229.00" y="414.00" height="10.00" width="61.00" charspace="0.00">
+<text>Department.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="18" sparse="normal" type="body" wmode="horizontal" x="172.00" y="439.00" height="10.00" width="349.00">
+<textline id="20" nature="list line letter type" continuation="true" type="unassigned" sparse="list line letter type" tag="p" x="172.00" y="439.00" height="10.00" width="349.00" number_of_words="14">
+<textword id="175" x="172.00" y="439.00" height="10.00" width="14.00" charspace="0.00">
+<text>(iii)</text>
+</textword>
+<textword id="176" x="190.00" y="439.00" height="10.00" width="19.00" charspace="0.00">
+<text>The</text>
+</textword>
+<textword id="177" x="212.00" y="439.00" height="10.00" width="38.00" charspace="-1.00">
+<text>Medical</text>
+</textword>
+<textword id="178" x="254.00" y="439.00" height="10.00" width="32.00" charspace="0.00">
+<text>Officer</text>
+</textword>
+<textword id="179" x="290.00" y="439.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="180" x="302.00" y="439.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="181" x="321.00" y="439.00" height="10.00" width="57.00" charspace="0.00">
+<text>Department</text>
+</textword>
+<textword id="182" x="382.00" y="439.00" height="10.00" width="21.00" charspace="0.00">
+<text>may</text>
+</textword>
+<textword id="183" x="406.00" y="439.00" height="10.00" width="9.00" charspace="0.00">
+<text>at</text>
+</textword>
+<textword id="184" x="419.00" y="439.00" height="10.00" width="18.00" charspace="0.00">
+<text>any</text>
+</textword>
+<textword id="185" x="440.00" y="439.00" height="10.00" width="21.00" charspace="0.00">
+<text>time</text>
+</textword>
+<textword id="186" x="464.00" y="439.00" height="10.00" width="26.00" charspace="0.00">
+<text>order</text>
+</textword>
+<textword id="187" x="493.00" y="439.00" height="10.00" width="19.00" charspace="0.00">
+<text>that</text>
+</textword>
+<textword id="188" x="515.00" y="439.00" height="10.00" width="6.00" charspace="0.00">
+<text>a</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="19" sparse="normal" type="body" wmode="horizontal" x="163.00" y="465.00" height="23.00" width="358.00">
+<textline id="21" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="452.00" height="10.00" width="358.00" number_of_words="15">
+<textword id="189" x="163.00" y="452.00" height="10.00" width="12.00" charspace="0.00">
+<text>pit</text>
+</textword>
+<textword id="190" x="179.00" y="452.00" height="10.00" width="30.00" charspace="0.00">
+<text>latrine</text>
+</textword>
+<textword id="191" x="213.00" y="452.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="192" x="229.00" y="452.00" height="10.00" width="32.00" charspace="0.00">
+<text>closed</text>
+</textword>
+<textword id="193" x="265.00" y="452.00" height="10.00" width="19.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="194" x="287.00" y="452.00" height="10.00" width="23.00" charspace="1.00">
+<text>filled</text>
+</textword>
+<textword id="195" x="314.00" y="452.00" height="10.00" width="20.00" charspace="0.00">
+<text>with</text>
+</textword>
+<textword id="196" x="338.00" y="452.00" height="10.00" width="25.00" charspace="0.00">
+<text>earth</text>
+</textword>
+<textword id="197" x="367.00" y="452.00" height="10.00" width="9.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="198" x="380.00" y="452.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="199" x="399.00" y="452.00" height="10.00" width="35.00" charspace="0.00">
+<text>ground</text>
+</textword>
+<textword id="200" x="438.00" y="452.00" height="10.00" width="22.00" charspace="0.00">
+<text>level</text>
+</textword>
+<textword id="201" x="464.00" y="452.00" height="10.00" width="19.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="202" x="487.00" y="452.00" height="10.00" width="6.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="203" x="497.00" y="452.00" height="10.00" width="24.00" charspace="0.00">
+<text>fresh</text>
+</textword>
+</textline>
+<textline id="22" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="465.00" height="11.00" width="78.00" number_of_words="2">
+<textword id="204" x="163.00" y="465.00" height="11.00" width="19.00" charspace="0.00">
+<text>one</text>
+</textword>
+<textword id="205" x="185.00" y="465.00" height="11.00" width="56.00" charspace="0.00">
+<text>substituted.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="20" sparse="normal" type="body" wmode="horizontal" x="163.00" y="477.00" height="10.00" width="359.00">
+<textline id="23" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="163.00" y="477.00" height="10.00" width="359.00" number_of_words="11">
+<textword id="206" x="163.00" y="477.00" height="10.00" width="9.00" charspace="0.00">
+<text>6.</text>
+</textword>
+<textword id="207" x="176.00" y="477.00" height="10.00" width="19.00" charspace="0.00">
+<text>The</text>
+</textword>
+<textword id="208" x="199.00" y="477.00" height="10.00" width="45.00" charspace="0.00">
+<text>materials</text>
+</textword>
+<textword id="209" x="247.00" y="477.00" height="10.00" width="13.00" charspace="1.00">
+<text>for</text>
+</textword>
+<textword id="210" x="264.00" y="477.00" height="10.00" width="59.00" charspace="0.00">
+<text>constructing</text>
+</textword>
+<textword id="211" x="327.00" y="477.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="212" x="347.00" y="477.00" height="10.00" width="35.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="213" x="386.00" y="477.00" height="10.00" width="43.00" charspace="0.00">
+<text>(whether</text>
+</textword>
+<textword id="214" x="432.00" y="477.00" height="10.00" width="46.00" charspace="0.00">
+<text>masonry,</text>
+</textword>
+<textword id="215" x="482.00" y="477.00" height="10.00" width="26.00" charspace="0.00">
+<text>wood</text>
+</textword>
+<textword id="216" x="512.00" y="477.00" height="10.00" width="10.00" charspace="0.00">
+<text>or</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="21" sparse="normal" type="body" wmode="horizontal" x="163.00" y="490.00" height="11.00" width="221.00">
+<textline id="24" nature="list line letter type" continuation="true" type="unassigned" sparse="list line letter type" tag="p" x="163.00" y="490.00" height="11.00" width="221.00" number_of_words="7">
+<textword id="217" x="163.00" y="490.00" height="11.00" width="51.00" charspace="0.00">
+<text>otherwise)</text>
+</textword>
+<textword id="218" x="217.00" y="490.00" height="11.00" width="23.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="219" x="243.00" y="490.00" height="11.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="220" x="258.00" y="490.00" height="11.00" width="42.00" charspace="0.00">
+<text>provided</text>
+</textword>
+<textword id="221" x="303.00" y="490.00" height="11.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="222" x="318.00" y="490.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="223" x="336.00" y="490.00" height="11.00" width="48.00" charspace="0.00">
+<text>employer.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="22" sparse="normal" type="body" wmode="horizontal" x="163.00" y="515.00" height="10.00" width="358.00">
+<textline id="25" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="163.00" y="515.00" height="10.00" width="358.00" number_of_words="14">
+<textword id="224" x="163.00" y="515.00" height="10.00" width="9.00" charspace="0.00">
+<text>7.</text>
+</textword>
+<textword id="225" x="181.00" y="515.00" height="10.00" width="9.00" charspace="0.00">
+<text>In</text>
+</textword>
+<textword id="226" x="194.00" y="515.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="227" x="214.00" y="515.00" height="10.00" width="23.00" charspace="0.00">
+<text>case</text>
+</textword>
+<textword id="228" x="241.00" y="515.00" height="10.00" width="10.00" charspace="-1.00">
+<text>of</text>
+</textword>
+<textword id="229" x="255.00" y="515.00" height="10.00" width="17.00" charspace="0.00">
+<text>pail</text>
+</textword>
+<textword id="230" x="276.00" y="515.00" height="10.00" width="36.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="231" x="316.00" y="515.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="232" x="336.00" y="515.00" height="10.00" width="45.00" charspace="0.00">
+<text>employer</text>
+</textword>
+<textword id="233" x="385.00" y="515.00" height="10.00" width="23.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="234" x="412.00" y="515.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="235" x="428.00" y="515.00" height="10.00" width="57.00" charspace="0.00">
+<text>responsible</text>
+</textword>
+<textword id="236" x="489.00" y="515.00" height="10.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="237" x="506.00" y="515.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="23" sparse="normal" type="body" wmode="horizontal" x="163.00" y="566.00" height="49.00" width="359.00">
+<textline id="26" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="528.00" height="11.00" width="358.00" number_of_words="12">
+<textword id="238" x="163.00" y="528.00" height="11.00" width="44.00" charspace="0.00">
+<text>provision</text>
+</textword>
+<textword id="239" x="211.00" y="528.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="240" x="224.00" y="528.00" height="11.00" width="6.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="241" x="233.00" y="528.00" height="11.00" width="26.00" charspace="0.00">
+<text>Night</text>
+</textword>
+<textword id="242" x="263.00" y="528.00" height="11.00" width="18.00" charspace="0.00">
+<text>Soil</text>
+</textword>
+<textword id="243" x="285.00" y="528.00" height="11.00" width="36.00" charspace="0.00">
+<text>Service</text>
+</textword>
+<textword id="244" x="325.00" y="528.00" height="11.00" width="28.00" charspace="0.00">
+<text>which</text>
+</textword>
+<textword id="245" x="356.00" y="528.00" height="11.00" width="23.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="246" x="383.00" y="528.00" height="11.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+<textword id="247" x="398.00" y="528.00" height="11.00" width="51.00" charspace="0.00">
+<text>performed</text>
+</textword>
+<textword id="248" x="452.00" y="528.00" height="11.00" width="9.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="249" x="465.00" y="528.00" height="11.00" width="56.00" charspace="0.00">
+<text>accordance</text>
+</textword>
+</textline>
+<textline id="27" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="540.00" height="10.00" width="359.00" number_of_words="9">
+<textword id="250" x="163.00" y="540.00" height="10.00" width="20.00" charspace="0.00">
+<text>with</text>
+</textword>
+<textword id="251" x="190.00" y="540.00" height="10.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="252" x="212.00" y="540.00" height="10.00" width="49.00" charspace="0.00">
+<text>provisions</text>
+</textword>
+<textword id="253" x="268.00" y="540.00" height="10.00" width="9.00" charspace="-1.00">
+<text>of</text>
+</textword>
+<textword id="254" x="284.00" y="540.00" height="10.00" width="16.00" charspace="1.00">
+<text>the</text>
+</textword>
+<textword id="255" x="307.00" y="540.00" height="10.00" width="58.00" charspace="0.00">
+<text>Regulations</text>
+</textword>
+<textword id="256" x="372.00" y="540.00" height="10.00" width="47.00" charspace="0.00">
+<text>published</text>
+</textword>
+<textword id="257" x="426.00" y="540.00" height="10.00" width="28.00" charspace="0.00">
+<text>under</text>
+</textword>
+<textword id="258" x="461.00" y="540.00" height="10.00" width="61.00" charspace="0.00">
+<text>Government</text>
+</textword>
+</textline>
+<textline id="28" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="553.00" height="10.00" width="358.00" number_of_words="12">
+<textword id="259" x="163.00" y="553.00" height="10.00" width="55.00" charspace="0.00">
+<text>Notification</text>
+</textword>
+<textword id="260" x="221.00" y="553.00" height="10.00" width="17.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="261" x="242.00" y="553.00" height="10.00" width="18.00" charspace="0.00">
+<text>162</text>
+</textword>
+<textword id="262" x="264.00" y="553.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="263" x="277.00" y="553.00" height="10.00" width="24.00" charspace="0.00">
+<text>1885</text>
+</textword>
+<textword id="264" x="305.00" y="553.00" height="10.00" width="10.00" charspace="0.00">
+<text>or</text>
+</textword>
+<textword id="265" x="319.00" y="553.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="266" x="331.00" y="553.00" height="10.00" width="18.00" charspace="0.00">
+<text>any</text>
+</textword>
+<textword id="267" x="353.00" y="553.00" height="10.00" width="25.00" charspace="0.00">
+<text>other</text>
+</textword>
+<textword id="268" x="381.00" y="553.00" height="10.00" width="59.00" charspace="0.00">
+<text>Regulations</text>
+</textword>
+<textword id="269" x="443.00" y="553.00" height="10.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="270" x="460.00" y="553.00" height="10.00" width="61.00" charspace="0.00">
+<text>conservancy</text>
+</textword>
+</textline>
+<textline id="29" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="566.00" height="11.00" width="127.00" number_of_words="6">
+<textword id="271" x="163.00" y="566.00" height="11.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="272" x="179.00" y="566.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="273" x="197.00" y="566.00" height="11.00" width="21.00" charspace="0.00">
+<text>time</text>
+</textword>
+<textword id="274" x="221.00" y="566.00" height="11.00" width="27.00" charspace="0.00">
+<text>being</text>
+</textword>
+<textword id="275" x="251.00" y="566.00" height="11.00" width="9.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="276" x="263.00" y="566.00" height="11.00" width="27.00" charspace="0.00">
+<text>force.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="24" sparse="normal" type="body" wmode="horizontal" x="163.00" y="591.00" height="10.00" width="358.00">
+<textline id="30" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="163.00" y="591.00" height="10.00" width="358.00" number_of_words="13">
+<textword id="277" x="163.00" y="591.00" height="10.00" width="9.00" charspace="0.00">
+<text>8.</text>
+</textword>
+<textword id="278" x="177.00" y="591.00" height="10.00" width="7.00" charspace="0.00">
+<text>A</text>
+</textword>
+<textword id="279" x="189.00" y="591.00" height="10.00" width="43.00" charspace="0.00">
+<text>sufficient</text>
+</textword>
+<textword id="280" x="237.00" y="591.00" height="10.00" width="32.00" charspace="0.00">
+<text>supply</text>
+</textword>
+<textword id="281" x="273.00" y="591.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="282" x="287.00" y="591.00" height="10.00" width="64.00" charspace="0.00">
+<text>disinfectants,</text>
+</textword>
+<textword id="283" x="356.00" y="591.00" height="10.00" width="15.00" charspace="0.00">
+<text>dry</text>
+</textword>
+<textword id="284" x="375.00" y="591.00" height="10.00" width="25.00" charspace="0.00">
+<text>earth</text>
+</textword>
+<textword id="285" x="405.00" y="591.00" height="10.00" width="10.00" charspace="0.00">
+<text>or</text>
+</textword>
+<textword id="286" x="419.00" y="591.00" height="10.00" width="20.00" charspace="0.00">
+<text>lime</text>
+</textword>
+<textword id="287" x="444.00" y="591.00" height="10.00" width="23.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="288" x="471.00" y="591.00" height="10.00" width="33.00" charspace="0.00">
+<text>always</text>
+</textword>
+<textword id="289" x="509.00" y="591.00" height="10.00" width="12.00" charspace="0.00">
+<text>be</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="25" sparse="normal" type="body" wmode="horizontal" x="163.00" y="604.00" height="11.00" width="342.00">
+<textline id="31" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="604.00" height="11.00" width="342.00" number_of_words="12">
+<textword id="290" x="163.00" y="604.00" height="11.00" width="44.00" charspace="0.00">
+<text>available</text>
+</textword>
+<textword id="291" x="210.00" y="604.00" height="11.00" width="13.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="292" x="226.00" y="604.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="293" x="244.00" y="604.00" height="11.00" width="40.00" charspace="0.00">
+<text>purpose</text>
+</textword>
+<textword id="294" x="287.00" y="604.00" height="11.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="295" x="299.00" y="604.00" height="11.00" width="39.00" charspace="0.00">
+<text>keeping</text>
+</textword>
+<textword id="296" x="341.00" y="604.00" height="11.00" width="11.00" charspace="0.00">
+<text>all</text>
+</textword>
+<textword id="297" x="355.00" y="604.00" height="11.00" width="35.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="298" x="393.00" y="604.00" height="11.00" width="9.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="299" x="405.00" y="604.00" height="11.00" width="6.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="300" x="414.00" y="604.00" height="11.00" width="40.00" charspace="0.00">
+<text>Sanitary</text>
+</textword>
+<textword id="301" x="457.00" y="604.00" height="11.00" width="48.00" charspace="0.00">
+<text>condition.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="26" sparse="normal" type="body" wmode="horizontal" x="163.00" y="629.00" height="10.00" width="358.00">
+<textline id="32" nature="normal" continuation="true" type="unassigned" sparse="list line numeral type" tag="p" x="163.00" y="629.00" height="10.00" width="358.00" number_of_words="12">
+<textword id="302" x="163.00" y="629.00" height="10.00" width="9.00" charspace="0.00">
+<text>9.</text>
+</textword>
+<textword id="303" x="176.00" y="629.00" height="10.00" width="20.00" charspace="0.00">
+<text>The</text>
+</textword>
+<textword id="304" x="200.00" y="629.00" height="10.00" width="45.00" charspace="0.00">
+<text>employer</text>
+</textword>
+<textword id="305" x="249.00" y="629.00" height="10.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="306" x="275.00" y="629.00" height="10.00" width="37.00" charspace="0.00">
+<text>engage</text>
+</textword>
+<textword id="307" x="316.00" y="629.00" height="10.00" width="23.00" charspace="0.00">
+<text>such</text>
+</textword>
+<textword id="308" x="343.00" y="629.00" height="10.00" width="52.00" charspace="0.00">
+<text>attendants</text>
+</textword>
+<textword id="309" x="399.00" y="629.00" height="10.00" width="11.00" charspace="0.00">
+<text>as</text>
+</textword>
+<textword id="310" x="414.00" y="629.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="311" x="434.00" y="629.00" height="10.00" width="38.00" charspace="0.00">
+<text>Medical</text>
+</textword>
+<textword id="312" x="476.00" y="629.00" height="10.00" width="32.00" charspace="0.00">
+<text>Officer</text>
+</textword>
+<textword id="313" x="512.00" y="629.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="27" sparse="normal" type="body" wmode="horizontal" x="163.00" y="654.00" height="23.00" width="359.00">
+<textline id="33" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="642.00" height="11.00" width="359.00" number_of_words="12">
+<textword id="314" x="163.00" y="642.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="315" x="185.00" y="642.00" height="11.00" width="58.00" charspace="0.00">
+<text>Department</text>
+</textword>
+<textword id="316" x="250.00" y="642.00" height="11.00" width="22.00" charspace="0.00">
+<text>shall</text>
+</textword>
+<textword id="317" x="279.00" y="642.00" height="11.00" width="27.00" charspace="0.00">
+<text>direct</text>
+</textword>
+<textword id="318" x="313.00" y="642.00" height="11.00" width="9.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="319" x="329.00" y="642.00" height="11.00" width="41.00" charspace="0.00">
+<text>maintain</text>
+</textword>
+<textword id="320" x="377.00" y="642.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="321" x="399.00" y="642.00" height="11.00" width="36.00" charspace="0.00">
+<text>latrines</text>
+</textword>
+<textword id="322" x="442.00" y="642.00" height="11.00" width="8.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="323" x="457.00" y="642.00" height="11.00" width="6.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="324" x="470.00" y="642.00" height="11.00" width="26.00" charspace="0.00">
+<text>clean</text>
+</textword>
+<textword id="325" x="503.00" y="642.00" height="11.00" width="19.00" charspace="0.00">
+<text>and</text>
+</textword>
+</textline>
+<textline id="34" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="654.00" height="10.00" width="89.00" number_of_words="2">
+<textword id="326" x="163.00" y="654.00" height="10.00" width="39.00" charspace="0.00">
+<text>sanitary</text>
+</textword>
+<textword id="327" x="205.00" y="654.00" height="10.00" width="47.00" charspace="0.00">
+<text>condition.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="28" sparse="normal" type="body" wmode="horizontal" x="163.00" y="705.00" height="36.00" width="358.00">
+<textline id="35" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="183.00" y="680.00" height="11.00" width="338.00" number_of_words="12">
+<textword id="328" x="183.00" y="680.00" height="11.00" width="47.00" charspace="0.00">
+<text>Approved</text>
+</textword>
+<textword id="329" x="234.00" y="680.00" height="11.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="330" x="249.00" y="680.00" height="11.00" width="15.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="331" x="268.00" y="680.00" height="11.00" width="45.00" charspace="0.00">
+<text>Governor</text>
+</textword>
+<textword id="332" x="317.00" y="680.00" height="11.00" width="9.00" charspace="0.00">
+<text>in</text>
+</textword>
+<textword id="333" x="329.00" y="680.00" height="11.00" width="47.00" charspace="0.00">
+<text>Executive</text>
+</textword>
+<textword id="334" x="380.00" y="680.00" height="11.00" width="37.00" charspace="0.00">
+<text>Council</text>
+</textword>
+<textword id="335" x="420.00" y="680.00" height="11.00" width="9.00" charspace="0.00">
+<text>at</text>
+</textword>
+<textword id="336" x="433.00" y="680.00" height="11.00" width="6.00" charspace="0.00">
+<text>a</text>
+</textword>
+<textword id="337" x="442.00" y="680.00" height="11.00" width="39.00" charspace="1.00">
+<text>meeting</text>
+</textword>
+<textword id="338" x="485.00" y="680.00" height="11.00" width="21.00" charspace="0.00">
+<text>held</text>
+</textword>
+<textword id="339" x="509.00" y="680.00" height="11.00" width="12.00" charspace="0.00">
+<text>on</text>
+</textword>
+</textline>
+<textline id="36" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="692.00" height="10.00" width="358.00" number_of_words="13">
+<textword id="340" x="163.00" y="692.00" height="10.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="341" x="183.00" y="692.00" height="10.00" width="45.00" charspace="0.00">
+<text>twentieth</text>
+</textword>
+<textword id="342" x="232.00" y="692.00" height="10.00" width="18.00" charspace="0.00">
+<text>day</text>
+</textword>
+<textword id="343" x="255.00" y="692.00" height="10.00" width="9.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="344" x="269.00" y="692.00" height="10.00" width="42.00" charspace="0.00">
+<text>January,</text>
+</textword>
+<textword id="345" x="316.00" y="692.00" height="10.00" width="28.00" charspace="0.00">
+<text>1939,</text>
+</textword>
+<textword id="346" x="349.00" y="692.00" height="10.00" width="18.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="347" x="372.00" y="692.00" height="10.00" width="38.00" charspace="0.00">
+<text>ordered</text>
+</textword>
+<textword id="348" x="414.00" y="692.00" height="10.00" width="10.00" charspace="1.00">
+<text>to</text>
+</textword>
+<textword id="349" x="429.00" y="692.00" height="10.00" width="26.00" charspace="0.00">
+<text>come</text>
+</textword>
+<textword id="350" x="460.00" y="692.00" height="10.00" width="18.00" charspace="0.00">
+<text>into</text>
+</textword>
+<textword id="351" x="483.00" y="692.00" height="10.00" width="24.00" charspace="0.00">
+<text>force</text>
+</textword>
+<textword id="352" x="512.00" y="692.00" height="10.00" width="9.00" charspace="0.00">
+<text>at</text>
+</textword>
+</textline>
+<textline id="37" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="163.00" y="705.00" height="10.00" width="27.00" number_of_words="1">
+<textword id="353" x="163.00" y="705.00" height="10.00" width="27.00" charspace="0.00">
+<text>once.</text>
+</textword>
+</textline>
+</textpara>
+</column>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+<layout>
+<textcolumn id="2" x="90.00" y="87.00" height="630.00" width="432.00"/>
+</layout>
+</page>
+</pages>

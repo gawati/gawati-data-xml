@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/tg/act/2003-05-13/décret_no_2003-162-pr/fra@/!main">
+<page id="1" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R7" x0="2.00" y0="12.00" x1="593.00" y1="834.00">
+<image id="1" name="im1" type="normal" x="2.00" y="8.00" height="822.00" width="591.00"/>
+</figure>
+<rect id="1" linewidth="0" x0="10.00" y0="442.00" x1="578.00" y1="748.00"/>
+<vectorcurve id="1" linewidth="16" x0="10.00" y0="442.00" x1="578.00" y1="748.00"/>
+<rect id="1" linewidth="0" x0="14.00" y0="63.00" x1="279.00" y1="432.00"/>
+<vectorcurve id="1" linewidth="16" x0="14.00" y0="63.00" x1="279.00" y1="432.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+<page id="2" cropbox="(0, 0, 595, 842)" x="0.00" y="0.00" height="842.00" width="595.00" rotate="0">
+<figure name="R12" x0="7.00" y0="9.00" x1="591.00" y1="833.00">
+<image id="2" name="im2" type="normal" x="7.00" y="9.00" height="824.00" width="584.00"/>
+</figure>
+<rect id="1" linewidth="0" x0="12.00" y0="88.00" x1="284.00" y1="345.00"/>
+<vectorcurve id="1" linewidth="16" x0="12.00" y0="88.00" x1="284.00" y1="345.00"/>
+<rect id="1" linewidth="0" x0="311.00" y0="70.00" x1="588.00" y1="740.00"/>
+<vectorcurve id="1" linewidth="16" x0="311.00" y0="70.00" x1="588.00" y1="740.00"/>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+</page>
+</pages>

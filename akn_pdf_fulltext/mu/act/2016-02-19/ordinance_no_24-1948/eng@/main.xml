@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/mu/act/2016-02-19/ordinance_no_24-1948/eng@/!main">
+<page id="1" cropbox="(0, 0, 612, 792)" x="0.00" y="0.00" height="792.00" width="612.00" rotate="0">
+<column id="1" x="90.00" y="756.00" height="660.00" width="424.00" alignment="center">
+<textpara id="2" sparse="normal" type="body" wmode="horizontal" x="90.00" y="107.00" height="11.00" width="143.00">
+<textline id="1" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="107.00" height="11.00" width="143.00" number_of_words="5">
+<textword id="1" x="90.00" y="107.00" height="11.00" width="59.00" charspace="0.00">
+<text>Ordinance</text>
+</textword>
+<textword id="2" x="152.00" y="107.00" height="11.00" width="20.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="3" x="175.00" y="107.00" height="11.00" width="13.00" charspace="0.00">
+<text>24</text>
+</textword>
+<textword id="4" x="192.00" y="107.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="5" x="206.00" y="107.00" height="11.00" width="27.00" charspace="0.00">
+<text>1948</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="3" sparse="normal" type="body" wmode="horizontal" x="97.00" y="148.00" height="11.00" width="417.00">
+<textline id="2" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="97.00" y="148.00" height="11.00" width="417.00" number_of_words="13">
+<textword id="6" x="97.00" y="148.00" height="11.00" width="16.00" charspace="0.00">
+<text>An</text>
+</textword>
+<textword id="7" x="116.00" y="148.00" height="11.00" width="57.00" charspace="0.00">
+<text>0rdinance</text>
+</textword>
+<textword id="8" x="177.00" y="148.00" height="11.00" width="11.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="9" x="191.00" y="148.00" height="11.00" width="31.00" charspace="0.00">
+<text>make</text>
+</textword>
+<textword id="10" x="225.00" y="148.00" height="11.00" width="54.00" charspace="0.00">
+<text>provision</text>
+</textword>
+<textword id="11" x="282.00" y="148.00" height="11.00" width="16.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="12" x="302.00" y="148.00" height="11.00" width="18.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="13" x="323.00" y="148.00" height="11.00" width="47.00" charspace="0.00">
+<text>carrying</text>
+</textword>
+<textword id="14" x="374.00" y="148.00" height="11.00" width="18.00" charspace="0.00">
+<text>out</text>
+</textword>
+<textword id="15" x="396.00" y="148.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="16" x="410.00" y="148.00" height="11.00" width="14.00" charspace="0.00">
+<text>an</text>
+</textword>
+<textword id="17" x="428.00" y="148.00" height="11.00" width="69.00" charspace="0.00">
+<text>undertaking</text>
+</textword>
+<textword id="18" x="500.00" y="148.00" height="11.00" width="14.00" charspace="0.00">
+<text>by</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="4" sparse="normal" type="body" wmode="horizontal" x="102.00" y="169.00" height="11.00" width="407.00">
+<textline id="3" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="102.00" y="169.00" height="11.00" width="407.00" number_of_words="13">
+<textword id="19" x="102.00" y="169.00" height="11.00" width="18.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="20" x="123.00" y="169.00" height="11.00" width="71.00" charspace="0.00">
+<text>Government</text>
+</textword>
+<textword id="21" x="197.00" y="169.00" height="11.00" width="12.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="22" x="212.00" y="169.00" height="11.00" width="53.00" charspace="0.00">
+<text>Mauritius</text>
+</textword>
+<textword id="23" x="269.00" y="169.00" height="11.00" width="11.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="24" x="283.00" y="169.00" height="11.00" width="31.00" charspace="0.00">
+<text>make</text>
+</textword>
+<textword id="25" x="318.00" y="169.00" height="11.00" width="31.00" charspace="0.00">
+<text>loans</text>
+</textword>
+<textword id="26" x="352.00" y="169.00" height="11.00" width="11.00" charspace="0.00">
+<text>to</text>
+</textword>
+<textword id="27" x="367.00" y="169.00" height="11.00" width="18.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="28" x="388.00" y="169.00" height="11.00" width="34.00" charspace="0.00">
+<text>Sugar</text>
+</textword>
+<textword id="29" x="425.00" y="169.00" height="11.00" width="48.00" charspace="0.00">
+<text>Industry</text>
+</textword>
+<textword id="30" x="476.00" y="169.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="31" x="491.00" y="169.00" height="11.00" width="18.00" charspace="0.00">
+<text>the</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="5" sparse="normal" type="body" wmode="horizontal" x="100.00" y="190.00" height="12.00" width="411.00">
+<textline id="4" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="100.00" y="190.00" height="12.00" width="411.00" number_of_words="12">
+<textword id="32" x="100.00" y="190.00" height="12.00" width="41.00" charspace="0.00">
+<text>Colony</text>
+</textword>
+<textword id="33" x="144.00" y="190.00" height="12.00" width="16.00" charspace="0.00">
+<text>for</text>
+</textword>
+<textword id="34" x="163.00" y="190.00" height="12.00" width="18.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="35" x="185.00" y="190.00" height="12.00" width="75.00" charspace="0.00">
+<text>rehabilitation</text>
+</textword>
+<textword id="36" x="263.00" y="190.00" height="12.00" width="12.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="37" x="278.00" y="190.00" height="12.00" width="33.00" charspace="0.00">
+<text>sugar</text>
+</textword>
+<textword id="38" x="314.00" y="190.00" height="12.00" width="50.00" charspace="0.00">
+<text>factories</text>
+</textword>
+<textword id="39" x="367.00" y="190.00" height="12.00" width="22.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="40" x="392.00" y="190.00" height="12.00" width="37.00" charspace="0.00">
+<text>rolling</text>
+</textword>
+<textword id="41" x="432.00" y="190.00" height="12.00" width="35.00" charspace="0.00">
+<text>stock,</text>
+</textword>
+<textword id="42" x="470.00" y="190.00" height="12.00" width="21.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="43" x="495.00" y="190.00" height="12.00" width="16.00" charspace="0.00">
+<text>for</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="6" sparse="normal" type="body" wmode="horizontal" x="141.00" y="210.00" height="11.00" width="329.00">
+<textline id="5" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="141.00" y="210.00" height="11.00" width="329.00" number_of_words="7">
+<textword id="44" x="141.00" y="210.00" height="11.00" width="30.00" charspace="0.00">
+<text>other</text>
+</textword>
+<textword id="45" x="175.00" y="210.00" height="11.00" width="43.00" charspace="0.00">
+<text>matters</text>
+</textword>
+<textword id="46" x="222.00" y="210.00" height="11.00" width="55.00" charspace="0.00">
+<text>incidental</text>
+</textword>
+<textword id="47" x="281.00" y="210.00" height="11.00" width="41.00" charspace="0.00">
+<text>thereto</text>
+</textword>
+<textword id="48" x="325.00" y="210.00" height="11.00" width="21.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="49" x="349.00" y="210.00" height="11.00" width="60.00" charspace="0.00">
+<text>connected</text>
+</textword>
+<textword id="50" x="413.00" y="210.00" height="11.00" width="57.00" charspace="0.00">
+<text>therewith.</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="7" sparse="normal" type="body" wmode="horizontal" x="213.00" y="252.00" height="11.00" width="185.00">
+<textline id="6" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="213.00" y="252.00" height="11.00" width="185.00" number_of_words="7">
+<textword id="51" x="213.00" y="252.00" height="11.00" width="53.00" charspace="0.00">
+<text>Repealed</text>
+</textword>
+<textword id="52" x="269.00" y="252.00" height="11.00" width="15.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="53" x="287.00" y="252.00" height="11.00" width="23.00" charspace="0.00">
+<text>[Act</text>
+</textword>
+<textword id="54" x="313.00" y="252.00" height="11.00" width="20.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="55" x="336.00" y="252.00" height="11.00" width="13.00" charspace="0.00">
+<text>18</text>
+</textword>
+<textword id="56" x="353.00" y="252.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="57" x="367.00" y="252.00" height="11.00" width="31.00" charspace="0.00">
+<text>1974]</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="1" sparse="normal" type="body" wmode="horizontal" x="90.00" y="756.00" height="20.00" width="399.00">
+<textline id="7" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="745.00" height="9.00" width="399.00" number_of_words="10">
+<textword id="58" x="90.00" y="745.00" height="9.00" width="26.00" charspace="0.00">
+<text>C:\My</text>
+</textword>
+<textword id="59" x="118.00" y="745.00" height="9.00" width="104.00" charspace="0.00">
+<text>Documents\Acts1948\No.</text>
+</textword>
+<textword id="60" x="225.00" y="745.00" height="9.00" width="41.00" charspace="0.00">
+<text>024-Sugar</text>
+</textword>
+<textword id="61" x="269.00" y="745.00" height="9.00" width="33.00" charspace="0.00">
+<text>Industry</text>
+</textword>
+<textword id="62" x="305.00" y="745.00" height="9.00" width="60.00" charspace="0.00">
+<text>(Rehabilitation</text>
+</textword>
+<textword id="63" x="367.00" y="745.00" height="9.00" width="8.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="64" x="378.00" y="745.00" height="9.00" width="37.00" charspace="0.00">
+<text>Factories</text>
+</textword>
+<textword id="65" x="417.00" y="745.00" height="9.00" width="14.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="66" x="434.00" y="745.00" height="9.00" width="30.00" charspace="0.00">
+<text>Rolling</text>
+</textword>
+<textword id="67" x="466.00" y="745.00" height="9.00" width="23.00" charspace="0.00">
+<text>Stock</text>
+</textword>
+</textline>
+<textline id="8" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="756.00" height="9.00" width="78.00" number_of_words="2">
+<textword id="68" x="90.00" y="756.00" height="9.00" width="39.00" charspace="0.00">
+<text>0rdinance</text>
+</textword>
+<textword id="69" x="131.00" y="756.00" height="9.00" width="37.00" charspace="0.00">
+<text>1948.doc</text>
+</textword>
+</textline>
+</textpara>
+</column>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+<layout>
+<textcolumn id="2" x="90.00" y="36.00" height="660.00" width="424.00"/>
+</layout>
+</page>
+</pages>

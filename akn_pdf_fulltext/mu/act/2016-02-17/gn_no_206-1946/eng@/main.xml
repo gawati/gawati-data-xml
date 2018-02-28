@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages xmlns="http://gawati.org/ns/1.0/content/pdf" connectorID="/akn/mu/act/2016-02-17/gn_no_206-1946/eng@/!main">
+<page id="1" cropbox="(0, 0, 612, 792)" x="0.00" y="0.00" height="792.00" width="612.00" rotate="0">
+<column id="1" x="90.00" y="186.00" height="111.00" width="429.00" alignment="center">
+<textpara id="1" sparse="normal" type="body" wmode="horizontal" x="190.00" y="85.00" height="10.00" width="231.00">
+<textline id="1" nature="list line letter type" continuation="true" type="unassigned" sparse="normal line" tag="p" x="190.00" y="85.00" height="10.00" width="231.00" number_of_words="5">
+<textword id="1" x="190.00" y="85.00" height="10.00" width="43.00" charspace="0.00">
+<text>Defence</text>
+</textword>
+<textword id="2" x="236.00" y="85.00" height="10.00" width="31.00" charspace="0.00">
+<text>(Food</text>
+</textword>
+<textword id="3" x="270.00" y="85.00" height="10.00" width="54.00" charspace="0.00">
+<text>Rationing)</text>
+</textword>
+<textword id="4" x="327.00" y="85.00" height="10.00" width="66.00" charspace="0.00">
+<text>Regulations,</text>
+</textword>
+<textword id="5" x="396.00" y="85.00" height="10.00" width="25.00" charspace="0.00">
+<text>1942</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="2" sparse="normal" type="body" wmode="horizontal" x="90.00" y="110.00" height="10.00" width="99.00">
+<textline id="2" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="90.00" y="110.00" height="10.00" width="99.00" number_of_words="5">
+<textword id="6" x="90.00" y="110.00" height="10.00" width="16.00" charspace="0.00">
+<text>GN</text>
+</textword>
+<textword id="7" x="109.00" y="110.00" height="10.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="8" x="130.00" y="110.00" height="10.00" width="18.00" charspace="0.00">
+<text>206</text>
+</textword>
+<textword id="9" x="151.00" y="110.00" height="10.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="10" x="165.00" y="110.00" height="10.00" width="24.00" charspace="0.00">
+<text>1946</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="3" sparse="normal" type="body" wmode="horizontal" x="92.00" y="136.00" height="11.00" width="427.00">
+<textline id="3" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="92.00" y="136.00" height="11.00" width="427.00" number_of_words="13">
+<textword id="11" x="92.00" y="136.00" height="11.00" width="63.00" charspace="0.00">
+<text>Instructions</text>
+</textword>
+<textword id="12" x="158.00" y="136.00" height="11.00" width="35.00" charspace="0.00">
+<text>issued</text>
+</textword>
+<textword id="13" x="196.00" y="136.00" height="11.00" width="12.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="14" x="211.00" y="136.00" height="11.00" width="17.00" charspace="0.00">
+<text>the</text>
+</textword>
+<textword id="15" x="231.00" y="136.00" height="11.00" width="51.00" charspace="0.00">
+<text>Rationing</text>
+</textword>
+<textword id="16" x="285.00" y="136.00" height="11.00" width="48.00" charspace="-1.00">
+<text>Authority</text>
+</textword>
+<textword id="17" x="336.00" y="136.00" height="11.00" width="31.00" charspace="0.00">
+<text>under</text>
+</textword>
+<textword id="18" x="370.00" y="136.00" height="11.00" width="63.00" charspace="0.00">
+<text>Regulations</text>
+</textword>
+<textword id="19" x="436.00" y="136.00" height="11.00" width="12.00" charspace="0.00">
+<text>29</text>
+</textword>
+<textword id="20" x="451.00" y="136.00" height="11.00" width="20.00" charspace="0.00">
+<text>and</text>
+</textword>
+<textword id="21" x="474.00" y="136.00" height="11.00" width="12.00" charspace="0.00">
+<text>32</text>
+</textword>
+<textword id="22" x="489.00" y="136.00" height="11.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="23" x="503.00" y="136.00" height="11.00" width="16.00" charspace="0.00">
+<text>the</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="4" sparse="normal" type="body" wmode="horizontal" x="118.00" y="148.00" height="10.00" width="374.00">
+<textline id="4" nature="list line letter type" continuation="true" type="unassigned" sparse="normal line" tag="p" x="118.00" y="148.00" height="10.00" width="374.00" number_of_words="8">
+<textword id="24" x="118.00" y="148.00" height="10.00" width="43.00" charspace="0.00">
+<text>Defence</text>
+</textword>
+<textword id="25" x="164.00" y="148.00" height="10.00" width="31.00" charspace="0.00">
+<text>(Food</text>
+</textword>
+<textword id="26" x="198.00" y="148.00" height="10.00" width="54.00" charspace="0.00">
+<text>Rationing)</text>
+</textword>
+<textword id="27" x="255.00" y="148.00" height="10.00" width="66.00" charspace="0.00">
+<text>Regulations,</text>
+</textword>
+<textword id="28" x="325.00" y="148.00" height="10.00" width="27.00" charspace="0.00">
+<text>1942,</text>
+</textword>
+<textword id="29" x="355.00" y="148.00" height="10.00" width="12.00" charspace="0.00">
+<text>as</text>
+</textword>
+<textword id="30" x="370.00" y="148.00" height="10.00" width="71.00" charspace="0.00">
+<text>subsequently</text>
+</textword>
+<textword id="31" x="444.00" y="148.00" height="10.00" width="48.00" charspace="0.00">
+<text>amended</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="5" sparse="normal" type="body" wmode="horizontal" x="218.00" y="173.00" height="10.00" width="175.00">
+<textline id="5" nature="normal" continuation="true" type="unassigned" sparse="normal line" tag="p" x="218.00" y="173.00" height="10.00" width="175.00" number_of_words="7">
+<textword id="32" x="218.00" y="173.00" height="10.00" width="49.00" charspace="0.00">
+<text>Repealed</text>
+</textword>
+<textword id="33" x="270.00" y="173.00" height="10.00" width="13.00" charspace="0.00">
+<text>by</text>
+</textword>
+<textword id="34" x="286.00" y="173.00" height="10.00" width="20.00" charspace="0.00">
+<text>[GN</text>
+</textword>
+<textword id="35" x="309.00" y="173.00" height="10.00" width="18.00" charspace="0.00">
+<text>No.</text>
+</textword>
+<textword id="36" x="330.00" y="173.00" height="10.00" width="18.00" charspace="0.00">
+<text>262</text>
+</textword>
+<textword id="37" x="351.00" y="173.00" height="10.00" width="11.00" charspace="0.00">
+<text>of</text>
+</textword>
+<textword id="38" x="365.00" y="173.00" height="10.00" width="28.00" charspace="0.00">
+<text>1946]</text>
+</textword>
+</textline>
+</textpara>
+<textpara id="6" sparse="normal" type="body" wmode="horizontal" x="250.00" y="186.00" height="10.00" width="111.00">
+<textline id="6" nature="list line letter type" continuation="true" type="unassigned" sparse="normal line" tag="p" x="250.00" y="186.00" height="10.00" width="111.00" number_of_words="2">
+<textword id="39" x="250.00" y="186.00" height="10.00" width="27.00" charspace="0.00">
+<text>(NOT</text>
+</textword>
+<textword id="40" x="280.00" y="186.00" height="10.00" width="81.00" charspace="0.00">
+<text>REPRODUCED)</text>
+</textword>
+</textline>
+</textpara>
+</column>
+<columns>
+</columns>
+<reading_order>
+</reading_order>
+<layout>
+<textcolumn id="2" x="90.00" y="606.00" height="111.00" width="429.00"/>
+</layout>
+</page>
+</pages>
